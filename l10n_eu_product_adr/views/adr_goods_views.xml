@@ -9,7 +9,7 @@
                         name="web_ribbon"
                         title="Archived"
                         bg_color="bg-danger"
-                        attrs="{'invisible': [('active', '=', True)]}"
+                        invisible="active"
                     />
                     <field name="active" invisible="1" />
                     <group>
@@ -62,7 +62,7 @@
         <field name="model">adr.goods</field>
         <field name="arch" type="xml">
             <tree decoration-muted="not active">
-                <field name="active" invisible="1" />
+                <field name="active" column_invisible="1" />
                 <field name="un_number" />
                 <field name="name" />
                 <field name="class_id" />

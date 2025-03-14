@@ -19,21 +19,23 @@
         <field name="arch" type="xml">
             <kanban>
                 <field name="id" />
+                <field name="image" />
                 <templates>
                     <t t-name="kanban-box">
-                        <div
-                            t-attf-class="oe_kanban_global_click"
-                            style="min-width:450px;min-height:80px"
-                        >
-                            <div class="o_kanban_image">
+                        <div t-attf-class="oe_kanban_global_click">
+                            <div class="o_kanban_card_content d-flex">
                                 <img
-                                    alt="Label image"
                                     t-att-src="kanban_image('adr.label', 'image', record.id.raw_value)"
+                                    t-if="record.image.raw_value"
+                                    class="o_kanban_image o_image_64_cover"
+                                    alt="ADR label image"
                                 />
                             </div>
                             <div class="oe_kanban_details">
                                 <p>
-                                    <strong><field name="code" /></strong>
+                                    <strong>
+                                        <field name="code" />
+                                    </strong>
                                 </p>
                                 <p>
                                     <field name="name" />

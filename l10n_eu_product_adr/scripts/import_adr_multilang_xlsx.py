@@ -11,6 +11,8 @@ from collections import defaultdict
 from lxml import etree
 from openpyxl import load_workbook  # pylint: disable=W7936
 
+from odoo import _
+
 skiprows = 3
 columns = {
     0: "un_number",
@@ -176,11 +178,22 @@ def parse_limited_quantity(row, split=True):
         if "BP 251" in value:  # known case
             return False, False
         else:
-            raise ValueError("Cannot parse limited quantity: %s (%s)" % (value, row))
+            raise ValueError(
+                _(
+                    "Cannot parse limited quantity: %(value)s (%(row)s)",
+                    value=value,
+                    row=row,
+                )
+            )
     quantity, uom_name = match.groups()
     if uom_name.lower() not in uom_map:
         raise ValueError(
-            "Unknown uom %s in limited quantity %s (%s)" % (uom_name, value, row)
+            _(
+                "Unknown uom %(uom_name)s in limited quantity %(value)s (%(row)s)",
+                uom_name=uom_name,
+                value=value,
+                row=row,
+            )
         )
     return quantity, uom_map[uom_name.lower()]
 
@@ -214,7 +227,7 @@ def get_xml_id(row):
                 apply_description_quirk(row),
             ]
     res = "_".join(part for part in parts if part).replace(".", "dot")
-    return "adr_goods_%s" % res
+    return f"adr_goods_{res}"
 
 
 def parse_un_number(row):
@@ -239,8 +252,8 @@ def un_number(record, value, row):
 def packing_instruction_ids(record, value, row):
     refs = []
     for instruction in parse_packing_instructions(row):
-        refs.append("ref('adr_packing_instruction_%s')" % instruction)
-    expression = "[(6, 0, [%s])]" % ", ".join(refs)
+        refs.append(f"ref('adr_packing_instruction_{instruction}')")
+    expression = f"[(6, 0, [{', '.join(refs)}])]"
     etree.SubElement(
         record,
         "field",
@@ -281,7 +294,7 @@ def class_id(record, value, row):
         "field",
         attrib={
             "name": "class_id",
-            "ref": "adr_class_%s" % value.replace(".", "_"),
+            "ref": f"adr_class_{value.replace('.', '_')}",
         },
     )
 
@@ -320,8 +333,12 @@ def parse_transport_category(row):
         match = re.search(r"(.*)\(([^\)]+)\)", value, re.DOTALL)
         if not match:
             raise ValueError(
-                "Unknown value for transport code/tunnel restriction code: "
-                "%s (%s)" % (value, row)
+                _(
+                    "Unknown value for transport code/tunnel restriction code: "
+                    "%(value) (%(row))",
+                    value=value,
+                    row=row,
+                )
             )
         category = match.groups()[0].strip()
         tunnel_restriction_code = match.groups()[1].strip()
@@ -332,11 +349,21 @@ def parse_transport_category(row):
     if category == "_":
         category = "-"
     if category not in valid_categories:
-        raise ValueError(f"Invalid transport category {category} in cell value {value}")
+        raise ValueError(
+            _(
+                "Invalid transport category %(category)s in cell value %(value)s",
+                category=category,
+                value=value,
+            )
+        )
     if tunnel_restriction_code not in valid_tunnel_codes:
         raise ValueError(
-            "Invalid tunnel restriction code %s in cell value %s"
-            % (tunnel_restriction_code, value)
+            _(
+                "Invalid tunnel restriction code %(tunnel_restriction)s in cell "
+                "value %(value)s",
+                tunnel_restriction_code=tunnel_restriction_code,
+                value=value,
+            )
         )
     return category, tunnel_restriction_code
 
@@ -382,7 +409,13 @@ def parse_labels(row):
             if un_number in article_labels:
                 label = article_labels[un_number]
         if label not in valid_labels + ["7X"]:
-            raise ValueError(f"Invalid label {label} in cell value {value}")
+            raise ValueError(
+                _(
+                    "Invalid label %(label)s in cell value %(value)s",
+                    label=label,
+                    value=value,
+                )
+            )
         res.append(label)
     return res
 
@@ -396,8 +429,8 @@ def label_ids(record, value, row):
         labels += ["7A", "7B", "7C", "7E"]
     label_refs = []
     for label in labels:
-        label_refs.append("ref('adr_label_%s')" % label.replace(".", "_"))
-    expression = "[(6, 0, [%s])]" % ", ".join(label_refs)
+        label_refs.append(f"ref('adr_label_{label.replace('.', '_')}')")
+    expression = f"[(6, 0, [{', '.join(label_refs)}])]"
     etree.SubElement(
         record,
         "field",
@@ -414,12 +447,18 @@ def transform_row(root, row):
         if field not in transformers:
             continue
         value = row[index]
-        if isinstance(value, (int, float)):
+        if isinstance(value, int | float):
             value = str(value)
         try:
             transformers[field](record, value, row)
         except (ValueError, AttributeError) as e:
-            raise ValueError(f"Could not transform row {row}: {e}") from e
+            raise ValueError(
+                _(
+                    "Could not transform row %(row)s: %(exception)s",
+                    row=row,
+                    exception=e,
+                )
+            ) from e
     return record.attrib["id"]
 
 
@@ -471,7 +510,7 @@ def import_adr_multilang_xlsx(argv):
         else:
             seen.add(xmlid)
     if duplicates:
-        raise ValueError("Duplicate xml ids:\n%s" % "\n".join(duplicates))
+        raise ValueError(_("Duplicate xml ids:\n %s", "\n".join(duplicates)))
     print(  # pylint: disable=W8116
         etree.tostring(
             root, pretty_print=True, xml_declaration=True, encoding="utf-8"
