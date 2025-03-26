@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-03-26 11:06+0000\n"
+"PO-Revision-Date: 2025-03-26 14:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -8375,7 +8375,7 @@ msgstr "N,N-DIMETIL-FORMAMIDE"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2253
 msgid "N,N-DIMETHYLANILINE"
-msgstr ""
+msgstr "N,N-DIMETILANILINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2690
@@ -8918,27 +8918,27 @@ msgstr "NITROFENOLI (o-, m-, p-)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2608
 msgid "NITROPROPANES"
-msgstr ""
+msgstr "NITROPROPANI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1337
 msgid "NITROSTARCH, WETTED with not less than 20% water, by mass"
-msgstr ""
+msgstr "NITROSTARCH, BAGNATO con almeno il 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0146
 msgid "NITROSTARCH, dry or wetted with less than 20% water, by mass"
-msgstr ""
+msgstr "NITROSTARCH, secco o umidificato con meno del 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1069
 msgid "NITROSYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI NITROSILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2308
 msgid "NITROSYLSULPHURIC ACID, LIQUID"
-msgstr ""
+msgstr "ACIDO NITROSILSOLFORICO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3456
@@ -8948,7 +8948,7 @@ msgstr "NITROSYLSULPHURIC ACID, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1664
 msgid "NITROTOLUENES, LIQUID"
-msgstr ""
+msgstr "NITROTOLUENI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3446
@@ -8958,27 +8958,27 @@ msgstr "NITROTOLUENES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2660
 msgid "NITROTOLUIDINES (MONO)"
-msgstr ""
+msgstr "NITROTOLUIDINE (MONO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0490
 msgid "NITROTRIAZOLONE (NTO)"
-msgstr ""
+msgstr "NITROTRIAZOLONE (NTO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1070
 msgid "NITROUS OXIDE"
-msgstr ""
+msgstr "OSSIDO DI AZOTO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2201
 msgid "NITROUS OXIDE, REFRIGERATED LIQUID"
-msgstr ""
+msgstr "PROTOSSIDO DI AZOTO, LIQUIDO REFRIGERATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1665
 msgid "NITROXYLENES, LIQUID"
-msgstr ""
+msgstr "NITROXILENI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3447
@@ -8988,48 +8988,48 @@ msgstr "NITROXYLENES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1920
 msgid "NONANES"
-msgstr ""
+msgstr "NONANI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1799
 msgid "NONYLTRICHLOROSILANE"
-msgstr ""
+msgstr "NONILTRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__name
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__name
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__name
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__name
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Name and description"
-msgstr ""
+msgstr "Nome e descrizione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_2_2
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_2_2
 msgid "Non-toxic and non-flammable gases"
-msgstr ""
+msgstr "Gas non tossici e non infiammabili"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__transport_category__not_subject_to_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__not_subject_to_adr
 msgid "Not subject to ADR"
-msgstr ""
+msgstr "Non soggetto ad ADR"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1800
 msgid "OCTADECYLTRICHLORO-SILANE"
-msgstr ""
+msgstr "OCTADECILTRICLORO-SILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2309
 msgid "OCTADIENES"
-msgstr ""
+msgstr "OTTADIENI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2422
@@ -9049,12 +9049,12 @@ msgstr "OCTAFLUOROPROPANE (GAS REFRIGERANTE R 218)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1262
 msgid "OCTANES"
-msgstr ""
+msgstr "OTTANI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0266
 msgid "OCTOLITE (OCTOL), dry or wetted with less than 15% water, by mass"
-msgstr ""
+msgstr "OCTOLIT (OCTOL), secco o inumidito con meno del 15% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0496
