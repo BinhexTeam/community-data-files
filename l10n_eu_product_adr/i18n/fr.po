@@ -7,14 +7,15 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-17 07:34+0000\n"
-"PO-Revision-Date: 2021-05-17 07:34+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-04-28 12:23+0000\n"
+"Last-Translator: Julien Hémono <julien@hemono.fr>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3159
@@ -543,7 +544,7 @@ msgstr "PHOSPHA-9 BICYCLONONANES (CYCLOOCTADIÈNE PHOSPHINES)"
 #. module: l10n_eu_product_adr
 #: model:ir.model.constraint,message:l10n_eu_product_adr.constraint_adr_class_code_unique
 msgid "A dangerous goods class with this code already exists"
-msgstr ""
+msgstr "Il existe déjà une classe de marchandise dangereuse avec ce code"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1088
@@ -721,23 +722,23 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__goods_ids
 msgid "ADR Goods"
-msgstr ""
+msgstr "Marchandises ADR"
 
 #. module: l10n_eu_product_adr
 #: model:res.groups,name:l10n_eu_product_adr.group_adr_goods_admin
 msgid "ADR Goods Administrator"
-msgstr ""
+msgstr "Administrateur des marchandises ADR"
 
 #. module: l10n_eu_product_adr
 #: model:res.groups,name:l10n_eu_product_adr.group_adr_goods_user
 msgid "ADR Goods User"
-msgstr ""
+msgstr "Utilisateur des marchandises ADR"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move__adr_points
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking__adr_points
 msgid "ADR Points"
-msgstr ""
+msgstr "Points ADR"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3510
@@ -1969,12 +1970,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_goods_on_variants
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_goods_on_variants
 msgid "Adr Goods On Variants"
-msgstr ""
+msgstr "Marchandise ADR sur les variantes"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 msgid "Archived"
-msgstr ""
+msgstr "Archivée"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3334
@@ -4268,20 +4269,20 @@ msgstr "Dioxyde de carbone solide (Anhydride carbonique, Neige carbonique)"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_class_id
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Classification"
-msgstr ""
+msgstr "Classification"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__classification_code
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_classification_code
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_classification_code
 msgid "Classification Code"
-msgstr ""
+msgstr "Code de classification"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__code
@@ -4299,6 +4300,11 @@ msgid ""
 "mentioned by name shall be assigned in accordance with the criteria "
 "('decision trees') of Part 2."
 msgstr ""
+"Contient le numéro ONU : de la matière ou de l'objet dangereux si un numéro "
+"ONU spécifique a été affecté à cette matière ou cet objet ; ou de la "
+"rubrique générique ou n.s.a. à laquelle les matières ou objets dangereux non "
+"nommément mentionnés doivent être affectés conformément aux critères (« "
+"diagrammes de décision ») de la partie 2."
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_goods__name
@@ -4310,12 +4316,20 @@ msgid ""
 "proper shipping name or, when applicable, as part of the proper shipping "
 "name (see 3.1.2 for further details on the proper shipping name)."
 msgstr ""
+"Contient, en majuscules, le nom de la matière ou de l'objet si un numéro ONU "
+"spécifique a été affecté à cette matière ou cet objet, ou de la rubrique "
+"générique ou n.s.a. à laquelle les matières ou objets dangereux ont été "
+"affectés conformément aux critères (« diagrammes de décision ») de la partie "
+"2. Ce nom doit être utilisé comme désignation officielle de transport ou, le "
+"cas échéant, comme partie de la désignation officielle de transport (voir "
+"complément d'informations sur la désignation officielle de transport au "
+"3.1.2)."
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_8
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_8
 msgid "Corrosive substances"
-msgstr ""
+msgstr "Matières corrosives"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__create_uid
@@ -4323,7 +4337,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__create_uid
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__create_date
@@ -4331,7 +4345,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__create_date
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__d/e
@@ -5029,23 +5043,23 @@ msgstr ""
 #: model:ir.ui.menu,name:l10n_eu_product_adr.adr_main_menu
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Dangerous Goods"
-msgstr ""
+msgstr "Marchandises dangereuses"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_adr_class
 msgid "Dangerous Goods Class"
-msgstr ""
+msgstr "Classe de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_class_action
 #: model:ir.ui.menu,name:l10n_eu_product_adr.adr_class_menu
 msgid "Dangerous Goods Classes"
-msgstr ""
+msgstr "Classes de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_adr_label
 msgid "Dangerous Goods Label"
-msgstr ""
+msgstr "Étiquette de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
@@ -5054,23 +5068,26 @@ msgid ""
 "Dangerous Goods Label %(label)s cannot be deleted because it is in use on "
 "one or more dangerous goods: %(labels)s"
 msgstr ""
+"L'étiquette de marchandise dangereuse %(label)s ne peut pas être supprimée "
+"parce qu'elle est utilisée par une ou plusieurs marchandises dangereuses : "
+"%(labels)s"
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_label_action
 #: model:ir.ui.menu,name:l10n_eu_product_adr.adr_label_menu
 msgid "Dangerous Goods Labels"
-msgstr ""
+msgstr "Étiquettes de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_adr_packing_instruction
 msgid "Dangerous Goods Packing Instruction"
-msgstr ""
+msgstr "Instruction d'emballage de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_packing_instruction_action
 #: model:ir.ui.menu,name:l10n_eu_product_adr.adr_packing_instruction_menu
 msgid "Dangerous Goods Packing Instructions"
-msgstr ""
+msgstr "Instructions d'emballage de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
@@ -5078,6 +5095,8 @@ msgid ""
 "Dangerous goods settings differ per variant of this product. Please "
 "configure the dangerous goods settings on each variant."
 msgstr ""
+"Les paramètres de matière dangereuse de ce produit diffèrent selon la "
+"variante. Veuillez configurer ces paramètres sur chaque variante."
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__display_name
@@ -5689,7 +5708,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_1_4
 msgid "Explosive substances and articles - Division 1.4"
-msgstr ""
+msgstr "Matières et objets explosibles - Division 1.4"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_1_5
@@ -7158,19 +7177,19 @@ msgstr ""
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_product__adr_goods_on_variants
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_template__adr_goods_on_variants
 msgid "Indicates whether the adr configuration is different for each variant."
-msgstr ""
+msgstr "Indique si la configuration ADR diffère selon la variante."
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_6_2
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_6_2
 msgid "Infectious substances"
-msgstr ""
+msgstr "Matières infectieuses"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__is_dangerous
 msgid "Is Dangerous"
-msgstr ""
+msgstr "Est dangereux"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0124
@@ -7494,7 +7513,7 @@ msgstr "POURPRE DE LONDRES"
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Labels"
-msgstr ""
+msgstr "Étiquettes"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__write_uid
@@ -7502,7 +7521,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__write_uid
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Mis à jour par"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class__write_date
@@ -7510,26 +7529,26 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__write_date
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Mis à jour le"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__limited_quantity
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_limited_quantity
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_limited_quantity
 msgid "Limited Quantity"
-msgstr ""
+msgstr "Quantité limite"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__limited_quantity_uom_id
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_limited_quantity_uom_id
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_limited_quantity_uom_id
 msgid "Limited Quantity UoM"
-msgstr ""
+msgstr "UdM de la quantité limite"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_9A
 msgid "Lithium metal batteries"
-msgstr ""
+msgstr "Batteries au lithium métal"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1419
@@ -8338,12 +8357,12 @@ msgstr "Masses magnétisées"
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_9
 msgid "Miscellaneous dangerous substances"
-msgstr ""
+msgstr "Matières dangereuses diverses"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_9
 msgid "Miscellaneous dangerous substances and articles"
-msgstr ""
+msgstr "Matières et objets dangereux divers"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2685
@@ -8992,26 +9011,26 @@ msgstr "NONYLTRICHLORO-SILANE"
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__name
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__name
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__name
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Name and description"
-msgstr ""
+msgstr "Nom et description"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_2_2
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_2_2
 msgid "Non-toxic and non-flammable gases"
-msgstr ""
+msgstr "Gaz ininflammables, non toxiques"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__transport_category__not_subject_to_adr
 #: model:ir.model.fields.selection,name:l10n_eu_product_adr.selection__adr_goods__tunnel_restriction_code__not_subject_to_adr
 msgid "Not subject to ADR"
-msgstr ""
+msgstr "Pas soumises à l’ADR"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1800
@@ -9483,13 +9502,13 @@ msgstr "OXYGÈNE LIQUIDE RÉFRIGÉRÉ"
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_5_2
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_5_2
 msgid "Organic peroxides"
-msgstr ""
+msgstr "Peroxydes organiques"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_5_1
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_5_1
 msgid "Oxidizing substances"
-msgstr ""
+msgstr "Matières comburantes"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3509
@@ -10765,17 +10784,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_packing_instruction_ids
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_packing_instruction_ids
 msgid "Packing Instructions"
-msgstr ""
+msgstr "Instructions d'emballage"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "Produit"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "Variante de produit"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2656
@@ -11248,7 +11267,7 @@ msgstr "HYDROXYDE DE RUBIDIUM EN SOLUTION"
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_7
 msgid "Radioactive material"
-msgstr ""
+msgstr "Matières radioactives"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_7A
