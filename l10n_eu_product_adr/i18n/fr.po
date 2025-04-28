@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-17 07:34+0000\n"
-"PO-Revision-Date: 2025-04-28 12:23+0000\n"
+"PO-Revision-Date: 2025-04-28 12:48+0000\n"
 "Last-Translator: Julien Hémono <julien@hemono.fr>\n"
 "Language-Team: \n"
 "Language: fr\n"
@@ -690,9 +690,9 @@ msgid ""
 "ADHESIVES containing flammable liquid (having a flash-point below 23 °C and "
 "viscous according to 2.2.3.1.4) (vapour pressure at 50 °C more than 110 kPa)"
 msgstr ""
-"ADHÉSIFS contenant un liquide inflammable (ayant un point d’éclair "
-"inférieurà 23  °C et visqueux selon 2.2.3.1.4) (pression de vapeur à 50  °C "
-"supérieure à 110 kPa)"
+"ADHÉSIFS contenant un liquide inflammable (ayant un point d’éclair inférieur "
+"à 23 °C et visqueux selon 2.2.3.1.4) (pression de vapeur à 50 °C supérieure "
+"à 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1133_F1_3_5L_P001/IBC02/R001_3
@@ -880,7 +880,7 @@ msgstr "BOISSONS ALCOOLISÉES contenant entre 24% et 70% d’alcool en volume"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3065_F1_3_5L_P001/IBC02/R001_2
 msgid "ALCOHOLIC BEVERAGES, with more than 70% alcohol by volume"
-msgstr "BOISSONS ALCOOLISÉES contenant plus de 70%  d'alcool en volume"
+msgstr "BOISSONS ALCOOLISÉES contenant plus de 70% d'alcool en volume"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1986
@@ -1747,8 +1747,8 @@ msgid ""
 "ARSENIC COMPOUND, LIQUID, N.O.S., inorganic, including: Arsenates, n.o.s., "
 "Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
 msgstr ""
-"COMPOSÉ LIQUIDE DE L'ARSENIC, N.S.A., inorganique, notamment: arséniates n.s."
-"a., arsénites n.s.a. et sulfures d'arsenic n.s.a."
+"COMPOSÉ LIQUIDE DE L'ARSENIC, N.S.A., inorganique, notamment : arséniates "
+"n.s.a., arsénites n.s.a. et sulfures d'arsenic n.s.a."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1557
@@ -1758,8 +1758,8 @@ msgid ""
 "ARSENIC COMPOUND, SOLID, N.O.S., inorganic, including: Arsenates, n.o.s.; "
 "Arsenites, n.o.s.; and Arsenic sulphides, n.o.s."
 msgstr ""
-"COMPOSÉ SOLIDE DE L'ARSENIC, N.S.A., inorganique, notamment: arséniates n.s."
-"a., arsénites n.s.a. et sulfures d'arsenic n.s.a."
+"COMPOSÉ SOLIDE DE L'ARSENIC, N.S.A., inorganique, notamment : arséniates "
+"n.s.a., arsénites n.s.a. et sulfures d'arsenic n.s.a."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1559
@@ -2501,8 +2501,8 @@ msgid ""
 "having a vapour pressure at 70 °C not exceeding 1.1 Mpa (11 bar) and a "
 "density at 50 °C not lower than 0.525 kg/l"
 msgstr ""
-"BUTADIÈNES STABILISÉS ou  BUTADIÈNES ET HYDROCARBURES EN MÉLANGE STABILISÉ, "
-"qui, à 70  °C, a une pression de vapeur ne dépassant pas 1,1 MPa (11 bar) et "
+"BUTADIÈNES STABILISÉS ou BUTADIÈNES ET HYDROCARBURES EN MÉLANGE STABILISÉ, "
+"qui, à 70 °C, a une pression de vapeur ne dépassant pas 1,1 MPa (11 bar) et "
 "dont la masse volumique à 50 °C n'est pas inférieure à 0,525 kg/l"
 
 #. module: l10n_eu_product_adr
@@ -3511,7 +3511,7 @@ msgstr "CHLOROSILANES TOXIQUES, CORROSIFS, INFLAMMABLES, N.S.A."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3361
 msgid "CHLOROSILANES, TOXIC, CORROSIVE, N.O.S."
-msgstr "CHLOROSILANES TOXIQUES, CORROSIFS, N.S.A"
+msgstr "CHLOROSILANES TOXIQUES, CORROSIFS, N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2988
@@ -4979,7 +4979,7 @@ msgstr "DÉSINFECTANT LIQUIDE TOXIQUE, N.S.A."
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1601_5kg
 msgid "DISINFECTANT, SOLID, TOXIC, N.O.S."
-msgstr "DÉSINFECTANT SOLIDE TOXIQUE, N.S.A"
+msgstr "DÉSINFECTANT SOLIDE TOXIQUE, N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3253
@@ -6246,7 +6246,7 @@ msgid ""
 "°C)"
 msgstr ""
 "CARBURANT DIESEL ou GAZOLE ou HUILE DE CHAUFFE LÉGÈRE (point d'éclair ne "
-"dépassant pas  60 °C)"
+"dépassant pas 60 °C)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3167
@@ -7942,7 +7942,7 @@ msgstr "OXYDE DE MÉSITYLE"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3466_5kg
 msgid "METAL CARBONYLS,  SOLID, N.O.S."
-msgstr "MÉTAUX-CARBONYLES SOLIDES, N.S.A.,"
+msgstr "MÉTAUX-CARBONYLES SOLIDES, N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3281
@@ -9526,7 +9526,7 @@ msgid ""
 "paint thinning and reducing compound)"
 msgstr ""
 "PEINTURES (y compris peintures, laques, émaux, couleurs, shellac, vernis, "
-"cirages, encaustiques, enduits d'apprêt et bases liquides pour laques) ou  "
+"cirages, encaustiques, enduits d'apprêt et bases liquides pour laques) ou "
 "MATIÈRES APPARENTÉES AUX PEINTURES (y compris solvants et diluants pour "
 "peintures)"
 
@@ -9595,7 +9595,7 @@ msgid ""
 msgstr ""
 "PEINTURES, CORROSIVES, INFLAMMABLES (y compris peintures, laques, émaux, "
 "couleurs, shellac, vernis, cirages, encaustiques, enduits d'apprêt et bases "
-"liquides pour laques) ou  MATIÈRES APPARENTÉES AUX PEINTURES, CORROSIVES, "
+"liquides pour laques) ou MATIÈRES APPARENTÉES AUX PEINTURES, CORROSIVES, "
 "INFLAMMABLES (y compris solvants et diluants pour peintures)"
 
 #. module: l10n_eu_product_adr
@@ -9610,7 +9610,7 @@ msgid ""
 msgstr ""
 "PEINTURES, INFLAMMABLES, CORROSIVES (y compris peintures, laques, émaux, "
 "couleurs, shellac, vernis, cirages, encaustiques, enduits d'apprêt et bases "
-"liquides pour laques) ou  MATIÈRES APPARENTÉES AUX PEINTURES, INFLAMMABLES, "
+"liquides pour laques) ou MATIÈRES APPARENTÉES AUX PEINTURES, INFLAMMABLES, "
 "CORROSIVES (y compris solvants et diluants pour peintures)"
 
 #. module: l10n_eu_product_adr
@@ -10095,7 +10095,7 @@ msgstr "ACIDE PHOSPHOREUX"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1339
 msgid "PHOSPHORUS HEPTASULPHIDE, free from yellow and white phosphorus"
-msgstr "HEPTASULFURE DE PHOSPHORE  exempt de phosphore jaune ou blanc"
+msgstr "HEPTASULFURE DE PHOSPHORE exempt de phosphore jaune ou blanc"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1939
@@ -10145,7 +10145,7 @@ msgstr "ANHYDRIDE PHOSPHORIQUE (PENTOXYDE DE PHOSPHORE)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1341
 msgid "PHOSPHORUS SESQUISULPHIDE, free from yellow and white phosphorus"
-msgstr "SESQUISULFURE DE PHOSPHORE  exempt de phosphore jaune ou blanc"
+msgstr "SESQUISULFURE DE PHOSPHORE exempt de phosphore jaune ou blanc"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1808
@@ -10165,7 +10165,7 @@ msgstr "TRIOXYDE DE PHOSPHORE"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1343
 msgid "PHOSPHORUS TRISULPHIDE, free from yellow and white phosphorus"
-msgstr "TRISULFURE DE PHOSPHORE  exempt de phosphore jaune ou blanc"
+msgstr "TRISULFURE DE PHOSPHORE exempt de phosphore jaune ou blanc"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1338
@@ -10280,7 +10280,7 @@ msgstr "MATIERE LIQUIDE QUI POLYMERISE, STABILISEE, N.S.A."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3534
 msgid "POLYMERIZING SUBSTANCE, LIQUID, TEMPERATURE CONTROLLED, N.O.S."
-msgstr "MATIERE LIQUIDE QUI POLYMERISE, AVEC REGULATION DE TEMPERATURE, N.S.A"
+msgstr "MATIERE LIQUIDE QUI POLYMERISE, AVEC REGULATION DE TEMPERATURE, N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3531
@@ -10711,7 +10711,7 @@ msgstr ""
 msgid ""
 "PYRETHROID PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C"
 msgstr ""
-"PYRÉTHROÏDE PESTICIDE LIQUIDE  INFLAMMABLE, TOXIQUE, ayant un point d'éclair "
+"PYRÉTHROÏDE PESTICIDE LIQUIDE INFLAMMABLE, TOXIQUE, ayant un point d'éclair "
 "inférieur à 23 °C"
 
 #. module: l10n_eu_product_adr
@@ -11272,22 +11272,22 @@ msgstr "Matières radioactives"
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_7A
 msgid "Radioactive material - Category I - WHITE"
-msgstr ""
+msgstr "Matières radioactives - Catégorie I - BLANC"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_7B
 msgid "Radioactive material - Category II - YELLOW"
-msgstr ""
+msgstr "Matières radioactives - Catégorie II - JAUNE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_7C
 msgid "Radioactive material - Category III -  YELLOW"
-msgstr ""
+msgstr "Matières radioactives - Catégorie III - JAUNE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_7E
 msgid "Radioactive material - Fissile material"
-msgstr ""
+msgstr "Matière radioactive - Matières fissiles"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1856
@@ -11338,7 +11338,7 @@ msgstr "ACIDE SÉLÉNIQUE"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_5L
 msgid "SELENIUM COMPOUND, LIQUID, N.O.S."
-msgstr "COMPOSÉ DU SÉLÉNIUM, LIQUIDE, N.S.A"
+msgstr "COMPOSÉ DU SÉLÉNIUM, LIQUIDE, N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3283
@@ -11948,8 +11948,8 @@ msgid ""
 "FLAMMABLE LIQUID, N.O.S. having a flash-point up to 60 °C"
 msgstr ""
 "SOLIDES ou mélanges de solides CONTENANT DU LIQUIDE INFLAMMABLE ayant un "
-"point d'éclair inférieur ou égal à  60 °C (tels que préparations et "
-"déchets), N.S.A."
+"point d'éclair inférieur ou égal à 60 °C (tels que préparations et déchets), "
+"N.S.A."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0204
@@ -12161,23 +12161,23 @@ msgstr "Aluminate de sodium solide"
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_4_2
 msgid "Spontaneously combustibles"
-msgstr ""
+msgstr "Spontanément inflammables"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "Movement de stock"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_4_2
 msgid "Substances liable to spontaneous combustion"
-msgstr ""
+msgstr "Matières sujettes à l'inflammation spontanée"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_4_3
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_4_3
 msgid "Substances which, in contact with water, emit flammable gases"
-msgstr ""
+msgstr "Matières qui, au contact de l'eau, dégagent des gaz inflammables"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_5L_P001/IBC03/LP01/R001_3
@@ -12592,9 +12592,9 @@ msgid ""
 "equal to  200 ml/m3 and saturated vapour concentration greater than or equal "
 "to 500 LC50"
 msgstr ""
-"LIQUIDE TOXIQUE À L'INHALATION, INFLAMMABLE, N.S.A., de de CL50 inférieure "
-"ou égale à 200 ml/m3 et de concentration de vapeur saturée supérieure ou "
-"égale à 500 CL50"
+"LIQUIDE TOXIQUE À L'INHALATION, INFLAMMABLE, N.S.A., de CL50 inférieure ou "
+"égale à 200 ml/m3 et de concentration de vapeur saturée supérieure ou égale "
+"à 500 CL50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3384
@@ -13219,7 +13219,7 @@ msgstr "Déchets textiles mouillés"
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_label__goods_ids
 msgid "The dangerous goods to which this label is applied"
-msgstr ""
+msgstr "Les marchandises dangereuses auxquelles cette étiquette s'applique"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_goods__label_ids
@@ -13229,6 +13229,9 @@ msgid ""
 "The labels/placards (see 5.2.2.2 and 5.3.1.7) that have to be affixed to "
 "packages, containers, tank-containers, portable tanks, MEGCs and vehicles.)"
 msgstr ""
+"Les étiquettes/plaques-étiquettes (voir 5.2.2.2 et 5.3.1.7) qui doivent être "
+"apposées sur les colis, conteneurs, conteneurs-citernes, citernes mobiles, "
+"CGEM et véhicules.)"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
@@ -13238,29 +13241,32 @@ msgid ""
 "you cannot update the dangerous goods from here. Please reconfigure each "
 "variant separately."
 msgstr ""
+"Des produits dangereux différents sont associés aux variantes de ce produit. "
+"Vous ne pouvez donc pas le mettre à jour d'ici. Veuillez reconfigurer chaque "
+"variante individuellement."
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_product__is_dangerous
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_template__is_dangerous
 msgid "This product belongs to a dangerous class"
-msgstr ""
+msgstr "Ce produit appartient à une classe de marchandise dangereuse"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_2_3
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_2_3
 msgid "Toxic gases"
-msgstr ""
+msgstr "Gaz toxiques"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_6_1
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_6_1
 msgid "Toxic substances"
-msgstr ""
+msgstr "Matières toxiques"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Opération"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
@@ -13274,7 +13280,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_transport_category
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Transport Category"
-msgstr ""
+msgstr "Catégorie de transport"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__tunnel_restriction_code
@@ -13282,18 +13288,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_tunnel_restriction_code
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Tunnel Restriction Code"
-msgstr ""
+msgstr "Code de restriction en tunnels"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__un_number
 msgid "UN Number"
-msgstr ""
+msgstr "Numéro ONU"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 msgid "UN Number %s is invalid because it does not have a length of 4."
 msgstr ""
+"Le numéro ONU %s est invalide parce que sa longueur n'est pas égale à 4."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2330
@@ -13928,7 +13935,7 @@ msgstr "p-NITROSO-DIMÉTHYLANILINE"
 #. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 msgid "qty:%(limited_quantity)s %(limited_quantity_uom_id)s"
-msgstr ""
+msgstr "qté:%(limited_quantity)s %(limited_quantity_uom_id)s"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3255
