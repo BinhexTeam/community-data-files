@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-27 09:10+0000\n"
+"PO-Revision-Date: 2025-05-27 11:25+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -144,7 +144,7 @@ msgstr "1,4-BUTINEDIOLO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2518
 msgid "1,5,9-CYCLODODECATRIENE"
-msgstr "1,4-BUTINEDIOLO"
+msgstr "1,5,9-CICLODODECATRIENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2688
@@ -549,7 +549,7 @@ msgstr "Esiste già una classe di merci pericolose con questo codice"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1088
 msgid "ACETAL"
-msgstr "ACETAL"
+msgstr "ACETALE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1089
@@ -591,9 +591,7 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1715
 msgid "ACETIC ANHYDRIDE"
-msgstr ""
-"ACIDO ACETICO, SOLUZIONE DI ACIDO ACETICO GLACIALE o, più dell'80% in massa "
-"di acido"
+msgstr "ANIDRIDE ACETICA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1090
@@ -2149,7 +2147,7 @@ msgstr "BENZONITRILE"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2587
 msgid "BENZOQUINONE"
-msgstr "BENZONITRILE"
+msgstr "BENZOCHINONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2226
@@ -3136,7 +3134,7 @@ msgstr "CARICHE SAGOMATE senza detonatore"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0060
 msgid "CHARGES, SUPPLEMENTARY, EXPLOSIVE"
-msgstr "CARICHE SAGOMATE senza detonatore"
+msgstr "ACCUSE SUPPLEMENTARI, ESPLOSIVE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3316
@@ -3487,7 +3485,7 @@ msgstr "CLOROPRENE, STABILIZZATO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2986
 msgid "CHLOROSILANES, CORROSIVE, FLAMMABLE, N.O.S."
-msgstr "CLOROSILANI, CORROSIVI, INFIAMMABILI, N.A.S."
+msgstr "CLOROSILANI, INFIAMMABILE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2987
@@ -5069,7 +5067,7 @@ msgstr "Etichette per merci pericolose"
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_adr_packing_instruction
 msgid "Dangerous Goods Packing Instruction"
-msgstr "Istruzioni per l'imballaggio di merci pericolose"
+msgstr "Istruzione per l'imballaggio di merci pericolose"
 
 #. module: l10n_eu_product_adr
 #: model:ir.actions.act_window,name:l10n_eu_product_adr.adr_packing_instruction_action
@@ -6911,7 +6909,7 @@ msgstr "IODOMETILPROPANI"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2392
 msgid "IODOPROPANES"
-msgstr "IODOPROPANES"
+msgstr "IODOPROPANI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1376
@@ -6934,7 +6932,7 @@ msgstr "ISOBUTANO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1212
 msgid "ISOBUTANOL (ISOBUTYL ALCOHOL)"
-msgstr "ISOBUTANOL (ISOBUTYL ALCOHOL)"
+msgstr "ISOBUTANOLO (ALCOOL ISOBUTILICO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1213
@@ -7557,7 +7555,7 @@ msgstr "BROMATO DI MAGNESIO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2723
 msgid "MAGNESIUM CHLORATE"
-msgstr "BROMATO DI MAGNESIO"
+msgstr "CLORATO DI MAGNESIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2004
@@ -8168,7 +8166,7 @@ msgstr "BROMURO DI METILE MAGNESIO IN ETERE ETILE"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1064
 msgid "METHYL MERCAPTAN"
-msgstr "METHYL MERCAPTAN"
+msgstr "METIL MERCAPTAN"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1247
@@ -8282,7 +8280,7 @@ msgstr "METILETICLOROSILANO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1244
 msgid "METHYLHYDRAZINE"
-msgstr "METHYLHYDRAZINE"
+msgstr "METILIDRAZINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2461
@@ -8415,7 +8413,7 @@ msgstr "N-ETHYLBENZYL-TOLUIDINES, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2754
 msgid "N-ETHYLTOLUIDINES"
-msgstr "N-ETHYLTOLUIDINES"
+msgstr "N-ETILTOLUIDINE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2294
@@ -9415,7 +9413,7 @@ msgstr "TETROSSIDO DI OSMIO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3098_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3098_5L
 msgid "OXIDIZING LIQUID, CORROSIVE, N.O.S."
-msgstr "OXIDIZING LIQUID, CORROSIVE, N.O.S."
+msgstr "LIQUIDO COMBURENTE, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3139
@@ -11778,7 +11776,7 @@ msgstr "IDRURO DI SODIO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2439
 msgid "SODIUM HYDROGENDIFLUORIDE"
-msgstr "SODIUM HYDROGENDIFLUORIDE"
+msgstr "IDROGENDIFLUORURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2318
@@ -11823,7 +11821,7 @@ msgstr "MONOSSIDO DI SODIO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1498
 msgid "SODIUM NITRATE"
-msgstr "MONOSSIDO DI SODIO"
+msgstr "NITRATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1499
