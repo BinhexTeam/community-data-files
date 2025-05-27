@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-26 14:25+0000\n"
+"PO-Revision-Date: 2025-05-27 09:10+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -11271,44 +11271,45 @@ msgstr "Stracci unti"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0503
 msgid "SAFETY DEVICES, PYROTECHNIC"
-msgstr ""
+msgstr "DISPOSITIVI DI SICUREZZA PIROTECNICI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3268
 msgid "SAFETY DEVICES, electrically initiated"
-msgstr ""
+msgstr "DISPOSITIVI DI SICUREZZA, ad avviamento elettrico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0190
 msgid "SAMPLES, EXPLOSIVE, other than initiating explosive"
-msgstr ""
+msgstr "CAMPIONI, ESPLOSIVI, diversi dall'innesco esplosivo"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1386
 msgid "SEED CAKE with more than 1.5% oil and not more than 11% moisture"
-msgstr ""
+msgstr "PANETTO DI SEMI con più dell'1,5% di olio e non più dell'11% di umidità"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2217
 msgid "SEED CAKE with not more than 1.5% oil and not more than 11% moisture"
 msgstr ""
+"PANETTO DI SEMI con non più dell'1,5% di olio e non più dell'11% di umidità"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2630
 msgid "SELENATES or SELENITES"
-msgstr ""
+msgstr "SELENATI o SELENITI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1905
 msgid "SELENIC ACID"
-msgstr ""
+msgstr "ACIDO SELENICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3440_5L
 msgid "SELENIUM COMPOUND, LIQUID, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DI SELENIO, LIQUIDO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3283
@@ -11320,53 +11321,53 @@ msgstr "SELENIUM COMPOUND, SOLIDO, N.O.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2657
 msgid "SELENIUM DISULPHIDE"
-msgstr ""
+msgstr "DISOLFURO DI SELENIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2194
 msgid "SELENIUM HEXAFLUORIDE"
-msgstr ""
+msgstr "ESAFLORURO DI SELENIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2879
 msgid "SELENIUM OXYCHLORIDE"
-msgstr ""
+msgstr "OSSICLORURO DI SELENIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3188_SC3_4dot2/8_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3188_SC3_4dot2/8_274_P402/IBC02_2
 msgid "SELF-HEATING LIQUID, CORROSIVE, INORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, CORROSIVO, INORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3185_SC1_4dot2/8_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3185_SC1_4dot2/8_274_P402/IBC02_2
 msgid "SELF-HEATING LIQUID, CORROSIVE, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, CORROSIVO, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3186_S3_4dot2_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3186_S3_4dot2_274_P001/IBC02_2
 msgid "SELF-HEATING LIQUID, INORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, INORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3183_S1_4dot2_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3183_S1_4dot2_274_P001/IBC02_2
 msgid "SELF-HEATING LIQUID, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3187_ST3_4dot2/6dot1_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3187_ST3_4dot2/6dot1_274_P402/IBC02_2
 msgid "SELF-HEATING LIQUID, TOXIC, INORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, TOSSICO, INORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3184_ST1_4dot2/6dot1_274_P001/IBC02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3184_ST1_4dot2/6dot1_274_P402/IBC02_2
 msgid "SELF-HEATING LIQUID, TOXIC, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO AUTORISCALDANTE, TOSSICO, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3192_SC4_4dot2/8_274_P002/IBC08/R001_3
@@ -11412,52 +11413,52 @@ msgstr "SELF-HEATING SOLIDO, TOXIC, ORGANIC, N.O.S."
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3221
 msgid "SELF-REACTIVE LIQUID TYPE B"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO B"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3231
 msgid "SELF-REACTIVE LIQUID TYPE B, TEMPERATURE CONTROLLED"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO B, A TEMPERATURA CONTROLLATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3223
 msgid "SELF-REACTIVE LIQUID TYPE C"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3233
 msgid "SELF-REACTIVE LIQUID TYPE C, TEMPERATURE CONTROLLED"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO C, A TEMPERATURA CONTROLLATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3225
 msgid "SELF-REACTIVE LIQUID TYPE D"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO D"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3235
 msgid "SELF-REACTIVE LIQUID TYPE D, TEMPERATURE CONTROLLED"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO D, TEMPERATURA CONTROLLATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3227
 msgid "SELF-REACTIVE LIQUID TYPE E"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO E"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3237
 msgid "SELF-REACTIVE LIQUID TYPE E, TEMPERATURE CONTROLLED"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO E, TEMPERATURA CONTROLLATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3229
 msgid "SELF-REACTIVE LIQUID TYPE F"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO F"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3239
 msgid "SELF-REACTIVE LIQUID TYPE F, TEMPERATURE CONTROLLED"
-msgstr ""
+msgstr "LIQUIDO AUTOREATTIVO TIPO F, TEMPERATURA CONTROLLATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3222
@@ -11513,13 +11514,13 @@ msgstr "SELF-REACTIVE SOLIDO TYPE F, TEMPERATURE CONTROLLED"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1288_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1288_5L
 msgid "SHALE OIL"
-msgstr ""
+msgstr "Petrolio di scisto"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0191
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0373
 msgid "SIGNAL DEVICES, HAND"
-msgstr ""
+msgstr "DISPOSITIVI DI SEGNALAZIONE, MANUALI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0194
@@ -11527,7 +11528,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0505
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0506
 msgid "SIGNALS, DISTRESS, ship"
-msgstr ""
+msgstr "SEGNALI, SOCCORSO, nave"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0192
@@ -11535,7 +11536,7 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0492
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0493
 msgid "SIGNALS, RAILWAY TRACK, EXPLOSIVE"
-msgstr ""
+msgstr "SEGNALI, BINARI FERROVIARI, ESPLOSIVI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0196
@@ -11544,99 +11545,99 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0487
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0507
 msgid "SIGNALS, SMOKE"
-msgstr ""
+msgstr "SEGNALI, FUMO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2203
 msgid "SILANE"
-msgstr ""
+msgstr "SILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1346
 msgid "SILICON POWDER, AMORPHOUS"
-msgstr ""
+msgstr "POLVERE DI SILICIO, AMORFO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1818
 msgid "SILICON TETRACHLORIDE"
-msgstr ""
+msgstr "TETRACLORURO DI SILICIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1859
 msgid "SILICON TETRAFLUORIDE"
-msgstr ""
+msgstr "TETRAFLUORURO DI SILICIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3521
 msgid "SILICON TETRAFLUORIDE, ADSORBED"
-msgstr ""
+msgstr "TETRAFLUORURO DI SILICIO, ADSORBITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1683
 msgid "SILVER ARSENITE"
-msgstr ""
+msgstr "ARSENITE D'ARGENTO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1684
 msgid "SILVER CYANIDE"
-msgstr ""
+msgstr "CIANURO D'ARGENTO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1493
 msgid "SILVER NITRATE"
-msgstr ""
+msgstr "NITRATO D'ARGENTO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1347
 msgid "SILVER PICRATE, WETTED with not less than 30% water, by mass"
-msgstr ""
+msgstr "PICRATE D'ARGENTO, BAGNATO con almeno il 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1906
 msgid "SLUDGE ACID"
-msgstr ""
+msgstr "ACIDO DI FANGHI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1907
 msgid "SODA LIME with more than 4% sodium hydroxide"
-msgstr ""
+msgstr "CALCE SODICA con più del 4% di idrossido di sodio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1428
 msgid "SODIUM"
-msgstr ""
+msgstr "SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1819_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1819_5L
 msgid "SODIUM ALUMINATE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI ALLUMINATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2835
 msgid "SODIUM ALUMINIUM HYDRIDE"
-msgstr ""
+msgstr "IDRURO DI SODIO E ALLUMINIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2863
 msgid "SODIUM AMMONIUM VANADATE"
-msgstr ""
+msgstr "SODIO AMMONIO VANADATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2473
 msgid "SODIUM ARSANILATE"
-msgstr ""
+msgstr "ARSANILATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1685
 msgid "SODIUM ARSENATE"
-msgstr ""
+msgstr "ARSENIATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1686_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1686_5L
 msgid "SODIUM ARSENITE, AQUEOUS SOLUTION"
-msgstr ""
+msgstr "ARSENITO DI SODIO, SOLUZIONE ACQUOSA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2027
@@ -11646,12 +11647,12 @@ msgstr "SODIUM ARSENITE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1687
 msgid "SODIUM AZIDE"
-msgstr ""
+msgstr "AZIDE DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1426
 msgid "SODIUM BOROHYDRIDE"
-msgstr ""
+msgstr "BOROIDRURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3320_1L
@@ -11660,48 +11661,50 @@ msgid ""
 "SODIUM BOROHYDRIDE AND SODIUM HYDROXIDE SOLUTION, with not more than 12% "
 "sodium borohydride and not more than 40% sodium hydroxide by mass"
 msgstr ""
+"SOLUZIONE DI BOROIDRURO DI SODIO E IDROSSIDO DI SODIO, con non più del 12% "
+"di boroidruro di sodio e non più del 40% di idrossido di sodio in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1494
 msgid "SODIUM BROMATE"
-msgstr ""
+msgstr "BROMATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1688
 msgid "SODIUM CACODYLATE"
-msgstr ""
+msgstr "CACODILATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3378_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3378_5kg
 msgid "SODIUM CARBONATE PEROXYHYDRATE"
-msgstr ""
+msgstr "CARBONATO DI SODIO PEROSSIDRATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1495
 msgid "SODIUM CHLORATE"
-msgstr ""
+msgstr "CLORATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2428_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2428_5L
 msgid "SODIUM CHLORATE, AQUEOUS SOLUTION"
-msgstr ""
+msgstr "CLORATO DI SODIO, SOLUZIONE ACQUOSA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1496
 msgid "SODIUM CHLORITE"
-msgstr ""
+msgstr "CLORITO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2659
 msgid "SODIUM CHLOROACETATE"
-msgstr ""
+msgstr "CLOROACETATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2317
 msgid "SODIUM CUPROCYANIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CUPROCIANURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2316
@@ -11713,7 +11716,7 @@ msgstr "SODIUM CUPROCYANIDE, SOLIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3414_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3414_5L
 msgid "SODIUM CYANIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CIANURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1689
@@ -11725,28 +11728,32 @@ msgstr "SODIUM CYANIDE, SOLIDO"
 msgid ""
 "SODIUM DINITRO-o-CRESOLATE, WETTED with not less than 10% water, by mass"
 msgstr ""
+"DINITRO-o-CRESOLATO DI SODIO, BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1348
 msgid ""
 "SODIUM DINITRO-o-CRESOLATE, WETTED with not less than 15% water, by mass"
 msgstr ""
+"DINITRO-o-CRESOLATO DI SODIO, BAGNATO con almeno il 15% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0234
 msgid ""
 "SODIUM DINITRO-o-CRESOLATE, dry or wetted with less than 15% water, by mass"
 msgstr ""
+"DINITRO-o-CRESOLATO DI SODIO, secco o umidificato con meno del 15% di acqua, "
+"in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1384
 msgid "SODIUM DITHIONITE (SODIUM HYDROSULPHITE)"
-msgstr ""
+msgstr "DITIONITO DI SODIO (IDROSOLFITO DI SODIO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3415
 msgid "SODIUM FLUORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI FLUORURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1690
@@ -11756,27 +11763,27 @@ msgstr "SODIUM FLUORIDE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2629
 msgid "SODIUM FLUOROACETATE"
-msgstr ""
+msgstr "FLUOROACETATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2674
 msgid "SODIUM FLUOROSILICATE"
-msgstr ""
+msgstr "FLUOROSILICATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1427
 msgid "SODIUM HYDRIDE"
-msgstr ""
+msgstr "IDRURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2439
 msgid "SODIUM HYDROGENDIFLUORIDE"
-msgstr ""
+msgstr "SODIUM HYDROGENDIFLUORIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2318
 msgid "SODIUM HYDROSULPHIDE with less than 25% water of crystallization"
-msgstr ""
+msgstr "IDROSOLFURO DI SODIO con meno del 25% di acqua di cristallizzazione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2949
@@ -11784,12 +11791,13 @@ msgid ""
 "SODIUM HYDROSULPHIDE, HYDRATED with not less than 25% water of "
 "crystallization"
 msgstr ""
+"IDROSOLFURO DI SODIO, IDRATO con almeno il 25% di acqua di cristallizzazione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1824_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1824_5L
 msgid "SODIUM HYDROXIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI IDROSSIDO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1823
@@ -11799,83 +11807,84 @@ msgstr "SODIUM HYDROXIDE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1431
 msgid "SODIUM METHYLATE"
-msgstr ""
+msgstr "METILATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1289_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1289_5L
 msgid "SODIUM METHYLATE SOLUTION in alcohol"
-msgstr ""
+msgstr "SOLUZIONE DI METILATO DI SODIO in alcol"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1825
 msgid "SODIUM MONOXIDE"
-msgstr ""
+msgstr "MONOSSIDO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1498
 msgid "SODIUM NITRATE"
-msgstr ""
+msgstr "MONOSSIDO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1499
 msgid "SODIUM NITRATE AND POTASSIUM NITRATE MIXTURE"
-msgstr ""
+msgstr "MISCELA DI NITRATO DI SODIO E NITRATO DI POTASSIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1500
 msgid "SODIUM NITRITE"
-msgstr ""
+msgstr "NITRITO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2567
 msgid "SODIUM PENTACHLOROPHENATE"
-msgstr ""
+msgstr "PENTACLOROFENATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3377
 msgid "SODIUM PERBORATE MONOHYDRATE"
-msgstr ""
+msgstr "PERBORATO DI SODIO MONOIDRATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1502
 msgid "SODIUM PERCHLORATE"
-msgstr ""
+msgstr "PERCLORATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1503
 msgid "SODIUM PERMANGANATE"
-msgstr ""
+msgstr "PERMANGANATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1504
 msgid "SODIUM PEROXIDE"
-msgstr ""
+msgstr "PEROSSIDO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3247
 msgid "SODIUM PEROXOBORATE, ANHYDROUS"
-msgstr ""
+msgstr "PEROSSOBORATO DI SODIO, ANIDRO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1505
 msgid "SODIUM PERSULPHATE"
-msgstr ""
+msgstr "PERSOLFATO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1432
 msgid "SODIUM PHOSPHIDE"
-msgstr ""
+msgstr "FOSFURO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1349
 msgid "SODIUM PICRAMATE, WETTED with not less than 20% water, by mass"
-msgstr ""
+msgstr "PICRAMATO DI SODIO, BAGNATO con almeno il 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0235
 msgid "SODIUM PICRAMATE, dry or wetted with less than 20% water, by mass"
 msgstr ""
+"PICRAMATO DI SODIO, secco o umidificato con meno del 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1385
@@ -11883,16 +11892,18 @@ msgid ""
 "SODIUM SULPHIDE, ANHYDROUS or SODIUM SULPHIDE with less than 30% water of "
 "crystallization"
 msgstr ""
+"SOLFURO DI SODIO ANIDRO o SOLFURO DI SODIO con meno del 30% di acqua di "
+"cristallizzazione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1849
 msgid "SODIUM SULPHIDE, HYDRATED with not less than 30% water"
-msgstr ""
+msgstr "SOLFURO DI SODIO, IDRATO con almeno il 30% di acqua"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2547
 msgid "SODIUM SUPEROXIDE"
-msgstr ""
+msgstr "SUPEROSSIDO DI SODIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3244
@@ -11919,37 +11930,37 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0374
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0375
 msgid "SOUNDING DEVICES, EXPLOSIVE"
-msgstr ""
+msgstr "DISPOSITIVI SONDI, ESPLOSIVI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2440
 msgid "STANNIC CHLORIDE PENTAHYDRATE"
-msgstr ""
+msgstr "CLORURO STANNICO PENTAIDRATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1827
 msgid "STANNIC CHLORIDE, ANHYDROUS"
-msgstr ""
+msgstr "CLORURO STANNICO ANIDRO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1433
 msgid "STANNIC PHOSPHIDES"
-msgstr ""
+msgstr "FOSFURI STANNICI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2676
 msgid "STIBINE"
-msgstr ""
+msgstr "STIBINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1691
 msgid "STRONTIUM ARSENITE"
-msgstr ""
+msgstr "ARSENITO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1506
 msgid "STRONTIUM CHLORATE"
-msgstr ""
+msgstr "CLORATO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1507
