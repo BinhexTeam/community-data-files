@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-27 11:25+0000\n"
+"PO-Revision-Date: 2025-05-28 11:25+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -11963,32 +11963,32 @@ msgstr "CLORATO DI STRONZIO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1507
 msgid "STRONTIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1508
 msgid "STRONTIUM PERCHLORATE"
-msgstr ""
+msgstr "PERCLORATO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1509
 msgid "STRONTIUM PEROXIDE"
-msgstr ""
+msgstr "PEROSSIDO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2013
 msgid "STRONTIUM PHOSPHIDE"
-msgstr ""
+msgstr "FOSFURO DI STRONZIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1692
 msgid "STRYCHNINE or STRYCHNINE SALTS"
-msgstr ""
+msgstr "STRICNINA o SALI DI STRICNINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2055
 msgid "STYRENE MONOMER, STABILIZED"
-msgstr ""
+msgstr "STIRENE MONOMERO, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0357
@@ -12005,12 +12005,12 @@ msgstr ""
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0481
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0485
 msgid "SUBSTANCES, EXPLOSIVE, N.O.S."
-msgstr ""
+msgstr "SOSTANZE ESPLOSIVE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0482
 msgid "SUBSTANCES, EXPLOSIVE, VERY INSENSITIVE (SUBSTANCES, EVI), N.O.S."
-msgstr ""
+msgstr "SOSTANZE ESPLOSIVE MOLTO INSENSIBILI (SOSTANZE, EVI), N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2780
@@ -12019,13 +12019,15 @@ msgid ""
 "SUBSTITUTED NITROPHENOL PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point "
 "less than 23 °C"
 msgstr ""
+"PESTICIDA NITROFENOLO SOSTITUITO, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3014_5L
 msgid "SUBSTITUTED NITROPHENOL PESTICIDE, LIQUID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA NITROFENOLO SOSTITUITO, LIQUIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3013
@@ -12035,6 +12037,8 @@ msgid ""
 "SUBSTITUTED NITROPHENOL PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not "
 "less than 23 °C"
 msgstr ""
+"PESTICIDA NITROFENOLO SOSTITUITO, LIQUIDO, TOSSICO, INFIAMMABILE, punto di "
+"infiammabilità non inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2779
@@ -12046,77 +12050,77 @@ msgstr "SUBSTITUTED NITROPHENOL PESTICIDE, SOLIDO, TOXIC"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2967
 msgid "SULPHAMIC ACID"
-msgstr ""
+msgstr "ACIDO SOLFAMMICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1350
 msgid "SULPHUR"
-msgstr ""
+msgstr "ZOLFO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1828
 msgid "SULPHUR CHLORIDES"
-msgstr ""
+msgstr "CLORURI DI ZOLFO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1079
 msgid "SULPHUR DIOXIDE"
-msgstr ""
+msgstr "ANIDRIDE SOLFOROSA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1080
 msgid "SULPHUR HEXAFLUORIDE"
-msgstr ""
+msgstr "ESAFLORURO DI ZOLFO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2418
 msgid "SULPHUR TETRAFLUORIDE"
-msgstr ""
+msgstr "TETRAFLUORURO DI ZOLFO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1829
 msgid "SULPHUR TRIOXIDE, STABILIZED"
-msgstr ""
+msgstr "ANIDRIDE SOLFOROSA STABILIZZATA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2448
 msgid "SULPHUR, MOLTEN"
-msgstr ""
+msgstr "ZOLFO FUSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1830
 msgid "SULPHURIC ACID with more than 51% acid"
-msgstr ""
+msgstr "ACIDO SOLFORICO con più del 51% di acido"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2796
 msgid "SULPHURIC ACID with not more than 51% acid or BATTERY FLUID, ACID"
-msgstr ""
+msgstr "ACIDO SOLFORICO con più del 51% di acido"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1831
 msgid "SULPHURIC ACID, FUMING"
-msgstr ""
+msgstr "ACIDO SOLFORICO FUMANTE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1832
 msgid "SULPHURIC ACID, SPENT"
-msgstr ""
+msgstr "ACIDO SOLFORICO ESAUSTO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1833
 msgid "SULPHUROUS ACID"
-msgstr ""
+msgstr "ACIDO SOLFOROSO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1834
 msgid "SULPHURYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI SOLFORILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2191
 msgid "SULPHURYL FLUORIDE"
-msgstr ""
+msgstr "FLUORURO DI SOLFORILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2812
@@ -12126,28 +12130,28 @@ msgstr "Sodium aluminate, solido"
 #. module: l10n_eu_product_adr
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_4_2
 msgid "Spontaneously combustibles"
-msgstr ""
+msgstr "Spontaneamente combustibili"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "Movimento di magazzino"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_4_2
 msgid "Substances liable to spontaneous combustion"
-msgstr ""
+msgstr "Sostanze soggette a combustione spontanea"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_4_3
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_4_3
 msgid "Substances which, in contact with water, emit flammable gases"
-msgstr ""
+msgstr "Sostanze che, a contatto con l'acqua, sviluppano gas infiammabili"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_5L_P001/IBC03/LP01/R001_3
 msgid "TARS, LIQUID, including road oils, and cutback bitumens"
-msgstr ""
+msgstr "CATRAMI, LIQUIDI, compresi gli oli stradali e i bitumi ridotti"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_5L_P001/IBC02/R001_3
@@ -12156,6 +12160,9 @@ msgid ""
 "point below 23 °C and viscous according to 2.2.3.1.4)  (vapour pressure at "
 "50 °C not more than 110 kPa)"
 msgstr ""
+"CATRAMI LIQUIDI, compresi gli oli stradali e i bitumi tagliati (aventi un "
+"punto di infiammabilità inferiore a 23 °C e viscosi secondo 2.2.3.1.4) ("
+"pressione di vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_5L_P001/R001_3
@@ -12164,6 +12171,9 @@ msgid ""
 "point below 23 °C and viscous according to 2.2.3.1.4) (vapour pressure at 50 "
 "°C more than 110 kPa)"
 msgstr ""
+"CATRAMI, LIQUIDI, compresi gli oli stradali e i bitumi tagliati (aventi un "
+"punto di infiammabilità inferiore a 23 °C e viscosi secondo 2.2.3.1.4) ("
+"pressione di vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_640C_5L_P001_2
@@ -12171,6 +12181,8 @@ msgid ""
 "TARS, LIQUID, including road oils, and cutback bitumens (vapour pressure at "
 "50 °C more than 110 kPa)"
 msgstr ""
+"CATRAMI, LIQUIDI, compresi gli oli stradali e i bitumi ridotti (pressione di "
+"vapore a 50 °C superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1999_F1_3_640D_5L_P001/IBC02/R001_2
@@ -12178,17 +12190,19 @@ msgid ""
 "TARS, LIQUID, including road oils, and cutback bitumens (vapour pressure at "
 "50 °C not more than 110 kPa)"
 msgstr ""
+"CATRAMI, LIQUIDI, compresi gli oli stradali e i bitumi ridotti (pressione di "
+"vapore a 50 °C non superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1700
 msgid "TEAR GAS CANDLES"
-msgstr ""
+msgstr "CANDELE LACRIMOGENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1693_T1_6dot1_274_P001/IBC02_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1693_T1_6dot1_274_P001_1
 msgid "TEAR GAS SUBSTANCE, LIQUID, N.O.S."
-msgstr ""
+msgstr "SOSTANZA LACRIMOGENA, LIQUIDA, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3448_T2_6dot1_274_P002/IBC08_2
@@ -12201,52 +12215,52 @@ msgstr "TEAR GAS SUBSTANCE, SOLIDO, N.O.S."
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3284_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3284_5kg
 msgid "TELLURIUM COMPOUND, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DEL TELLURIO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2195
 msgid "TELLURIUM HEXAFLUORIDE"
-msgstr ""
+msgstr "ESAFLORURO DI TELLURIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2319
 msgid "TERPENE HYDROCARBONS, N.O.S."
-msgstr ""
+msgstr "IDROCARBURI TERPENICI, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2541
 msgid "TERPINOLENE"
-msgstr ""
+msgstr "TERPINOLENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2504
 msgid "TETRABROMOETHANE"
-msgstr ""
+msgstr "TETRABROMOETANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1897
 msgid "TETRACHLOROETHYLENE"
-msgstr ""
+msgstr "TETRACLOROETILENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1704
 msgid "TETRAETHYL DITHIOPYROPHOSPHATE"
-msgstr ""
+msgstr "TETRAETIL DITIOPIROFOSFATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1292
 msgid "TETRAETHYL SILICATE"
-msgstr ""
+msgstr "SILICATO DI TETRAETILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2320
 msgid "TETRAETHYLENE-PENTAMINE"
-msgstr ""
+msgstr "TETRAETILENE-PENTAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1081
 msgid "TETRAFLUOROETHYLENE, STABILIZED"
-msgstr ""
+msgstr "TETRAFLUOROETILENE STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1982
@@ -12277,7 +12291,7 @@ msgstr "TETRAIDROTHIOPHENE"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1835_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1835_5L
 msgid "TETRAMETHYL-AMMONIUM HYDROXIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI IDROSSIDO DI TETRAMETIL-AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3423
@@ -12287,47 +12301,47 @@ msgstr "TETRAMETHYL-AMMONIUM HYDROXIDE, SOLIDO"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2749
 msgid "TETRAMETHYLSILANE"
-msgstr ""
+msgstr "TETRAMETILSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0207
 msgid "TETRANITROANILINE"
-msgstr ""
+msgstr "TETRANITROANILINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1510
 msgid "TETRANITROMETHANE"
-msgstr ""
+msgstr "TETRANITROMETANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2413
 msgid "TETRAPROPYL ORTHOTITANATE"
-msgstr ""
+msgstr "TETRAPROPIL ORTOTITANATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0407
 msgid "TETRAZOL-1-ACETIC ACID"
-msgstr ""
+msgstr "ACIDO TETRAZOL-1-ACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2573
 msgid "THALLIUM CHLORATE"
-msgstr ""
+msgstr "CLORATO DI TALLIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1707
 msgid "THALLIUM COMPOUND, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DEL TALLIO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2727
 msgid "THALLIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI TALLIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2436
 msgid "THIOACETIC ACID"
-msgstr ""
+msgstr "ACIDO TIOACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2772
@@ -12336,13 +12350,15 @@ msgid ""
 "THIOCARBAMATE PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 "
 "°C"
 msgstr ""
+"PESTICIDA TIOCARBAMMATO, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3006_5L
 msgid "THIOCARBAMATE PESTICIDE, LIQUID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA TIOCARBAMMATO, LIQUIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3005
@@ -12352,6 +12368,8 @@ msgid ""
 "THIOCARBAMATE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than "
 "23 °C"
 msgstr ""
+"PESTICIDA TIOCARBAMMATO, LIQUIDO, TOSSICO, INFIAMMABILE, punto di "
+"infiammabilità non inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2771
@@ -12363,108 +12381,110 @@ msgstr "THIOCARBAMATE PESTICIDE, SOLIDO, TOXIC"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2966
 msgid "THIOGLYCOL"
-msgstr ""
+msgstr "TIOGLICOLE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1940
 msgid "THIOGLYCOLIC ACID"
-msgstr ""
+msgstr "ACIDO TIOGLICOLICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2936
 msgid "THIOLACTIC ACID"
-msgstr ""
+msgstr "ACIDO TIOLAttico"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1836
 msgid "THIONYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI TIONILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2414
 msgid "THIOPHENE"
-msgstr ""
+msgstr "TIOFENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2474
 msgid "THIOPHOSGENE"
-msgstr ""
+msgstr "TIOFOSGENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1837
 msgid "THIOPHOSPHORYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI TIOFOSFORILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3341_S2_4dot2_P002/IBC06_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3341_S2_4dot2_P002/IBC08/LP02/R001_3
 msgid "THIOUREA DIOXIDE"
-msgstr ""
+msgstr "BIOSSIDO DI TIOUREA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1293_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1293_5L
 msgid "TINCTURES, MEDICINAL"
-msgstr ""
+msgstr "TINTURE MEDICINALI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3174
 msgid "TITANIUM DISULPHIDE"
-msgstr ""
+msgstr "DISOLFURO DI TITANIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1871
 msgid "TITANIUM HYDRIDE"
-msgstr ""
+msgstr "IDRURO DI TITANIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P002/IBC08/LP02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P404_0
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2546_S4_4dot2_540_P410/IBC06_2
 msgid "TITANIUM POWDER, DRY"
-msgstr ""
+msgstr "POLVERE DI TITANIO SECCA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1352
 msgid "TITANIUM POWDER, WETTED with not less than 25% water"
-msgstr ""
+msgstr "POLVERE DI TITANIO, BAGNATA con almeno il 25% di acqua"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2878
 msgid "TITANIUM SPONGE GRANULES or TITANIUM SPONGE POWDERS"
-msgstr ""
+msgstr "GRANULI DI SPUGNA DI TITANIO o POLVERI DI SPUGNA DI TITANIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1838
 msgid "TITANIUM TETRACHLORIDE"
-msgstr ""
+msgstr "TETRACLORURO DI TITANIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2869_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2869_5kg
 msgid "TITANIUM TRICHLORIDE MIXTURE"
-msgstr ""
+msgstr "MISCELA DI TRICLORURO DI TITANIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2441
 msgid ""
 "TITANIUM TRICHLORIDE, PYROPHORIC or TITANIUM TRICHLORIDE MIXTURE, PYROPHORIC"
 msgstr ""
+"TRICLORURO DI TITANIO PIROFORICO o MISCELA DI TRICLORURO DI TITANIO "
+"PIROFORICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1294
 msgid "TOLUENE"
-msgstr ""
+msgstr "TOLUENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2078
 msgid "TOLUENE DIISOCYANATE"
-msgstr ""
+msgstr "DIISOCIANATO DI TOLUENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1708
 msgid "TOLUIDINES, LIQUID"
-msgstr ""
+msgstr "TOLUIDINE LIQUIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3451
@@ -12476,17 +12496,17 @@ msgstr "TOLUIDINES, SOLIDO"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0330
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0451
 msgid "TORPEDOES with bursting charge"
-msgstr ""
+msgstr "SILURI con carica di scoppio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0450
 msgid "TORPEDOES, LIQUID FUELLED with inert head"
-msgstr ""
+msgstr "SILURI A COMBUSTIBILE LIQUIDO con testa inerte"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0449
 msgid "TORPEDOES, LIQUID FUELLED with or without bursting charge"
-msgstr ""
+msgstr "SILURI A COMBUSTIBILE LIQUIDO con o senza carica di scoppio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3389
@@ -12495,6 +12515,9 @@ msgid ""
 "equal to 200 ml/m3 and saturated vapour concentration greater than or equal "
 "to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, CORROSIVO, N.A.S. con una LC50 inferiore o "
+"uguale a 200 ml/m3 e una concentrazione di vapore saturo superiore o uguale "
+"a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3390
@@ -12503,6 +12526,9 @@ msgid ""
 "equal to 1000 ml/m3 and saturated vapour concentration greater than or equal "
 "to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, CORROSIVO, N.A.S. con una LC50 inferiore o "
+"uguale a 1000 ml/m3 e una concentrazione di vapore saturo maggiore o uguale "
+"a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3489
@@ -12511,6 +12537,9 @@ msgid ""
 "than or equal to 1000 ml/m³ and saturated vapour concentration greater than "
 "or equal to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, INFIAMMABILE, CORROSIVO, N.A.S. con una LC50 "
+"inferiore o uguale a 1000 ml/m³ e una concentrazione di vapore saturo "
+"superiore o uguale a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3488
@@ -12519,6 +12548,9 @@ msgid ""
 "than or equal to 200 ml/m³ and saturated vapour concentration greater than "
 "or equal to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, INFIAMMABILE, CORROSIVO, N.A.S. con una LC50 "
+"inferiore o uguale a 200 ml/m³ e una concentrazione di vapore saturo "
+"superiore o uguale a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3383
@@ -12527,6 +12559,9 @@ msgid ""
 "equal to  200 ml/m3 and saturated vapour concentration greater than or equal "
 "to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, INFIAMMABILE, N.A.S. con una LC50 inferiore "
+"o uguale a 200 ml/m3 e una concentrazione di vapore saturo superiore o "
+"uguale a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3384
@@ -12535,6 +12570,9 @@ msgid ""
 "or equal to 1000 ml/m3 and saturated vapour concentration greater than or "
 "equal to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, INFIAMMABILE, N.A.S. con una LC50 inferiore "
+"o uguale a 1000 ml/m3 e una concentrazione di vapore saturo superiore o "
+"uguale a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3382
@@ -12542,6 +12580,8 @@ msgid ""
 "TOXIC BY INHALATION LIQUID, N.O.S. with an LC50 lower than or equal to 1000 "
 "ml/m3 and saturated vapour concentration greater than or equal to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, N.A.S. con una LC50 inferiore o uguale a "
+"1000 ml/m3 e una concentrazione di vapore saturo superiore o uguale a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3381
@@ -12549,6 +12589,8 @@ msgid ""
 "TOXIC BY INHALATION LIQUID, N.O.S. with an LC50 lower than or equal to 200 "
 "ml/m3 and saturated vapour concentration greater than or equal to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, N.A.S. con una LC50 inferiore o uguale a 200 "
+"ml/m3 e una concentrazione di vapore saturo superiore o uguale a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3388
@@ -12557,6 +12599,9 @@ msgid ""
 "equal to 1000 ml/m3 and saturated vapour concentration greater than or equal "
 "to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, COMBURENTE, N.A.S. con una LC50 inferiore o "
+"uguale a 1000 ml/m3 e una concentrazione di vapore saturo maggiore o uguale "
+"a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3387
@@ -12565,6 +12610,9 @@ msgid ""
 "equal to 200 ml/m3 and saturated vapour concentration greater than or equal "
 "to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, COMBURENTE, N.A.S. con una LC50 inferiore o "
+"uguale a 200 ml/m3 e una concentrazione di vapore saturo superiore o uguale "
+"a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3491
@@ -12573,6 +12621,9 @@ msgid ""
 "lower than or equal to 1000 ml/m³ and saturated vapour concentration greater "
 "than or equal to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, IDROREATTIVO, INFIAMMABILE, N.A.S. con una "
+"LC50 inferiore o uguale a 1000 ml/m³ e una concentrazione di vapore saturo "
+"maggiore o uguale a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3490
@@ -12581,6 +12632,9 @@ msgid ""
 "lower than or equal to 200 ml/m³ and saturated vapour concentration greater "
 "than or equal to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, IDROREATTIVO, INFIAMMABILE, N.A.S. con una "
+"LC50 inferiore o uguale a 200 ml/m³ e una concentrazione di vapore saturo "
+"superiore o uguale a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3386
@@ -12589,6 +12643,9 @@ msgid ""
 "or equal to 1000 ml/m3 and saturated vapour concentration greater than or "
 "equal to 10 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, IDROREATTIVO, N.A.S. con una LC50 inferiore "
+"o uguale a 1000 ml/m3 e una concentrazione di vapore saturo maggiore o "
+"uguale a 10 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3385
@@ -12597,24 +12654,27 @@ msgid ""
 "or equal to 200 ml/m3 and saturated vapour concentration greater than or "
 "equal to 500 LC50"
 msgstr ""
+"LIQUIDO TOSSICO PER INALAZIONE, IDROREATTIVO, N.A.S. con una LC50 inferiore "
+"o uguale a 200 ml/m3 e una concentrazione di vapore saturo superiore o "
+"uguale a 500 LC50"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3289
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3289_100ml
 msgid "TOXIC LIQUID, CORROSIVE, INORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, CORROSIVO, INORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2927
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2927_100ml
 msgid "TOXIC LIQUID, CORROSIVE, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, CORROSIVO, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2929
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2929_100ml
 msgid "TOXIC LIQUID, FLAMMABLE, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, INFIAMMABILE, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287
