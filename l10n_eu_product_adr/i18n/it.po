@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-29 10:26+0000\n"
+"PO-Revision-Date: 2025-05-29 13:13+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -13350,56 +13350,60 @@ msgid ""
 "VEHICLE, FUEL CELL, FLAMMABLE GAS POWERED, or VEHICLE, FUEL CELL, FLAMMABLE "
 "LIQUID POWERED"
 msgstr ""
+"VEICOLO, ALIMENTATO A GAS INFIAMMABILE, di VEICOLO, ALIMENTATO A LIQUIDO "
+"INFIAMMABILE, o VEICOLO, A CELLA A COMBUSTIBILE, ALIMENTATO A GAS "
+"INFIAMMABILE, o VEICOLO, A CELLA A COMBUSTIBILE, ALIMENTATO A LIQUIDO "
+"INFIAMMABILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1301
 msgid "VINYL ACETATE, STABILIZED"
-msgstr ""
+msgstr "ACETATO DI VINILE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1085
 msgid "VINYL BROMIDE, STABILIZED"
-msgstr ""
+msgstr "BROMURO DI VINILE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2838
 msgid "VINYL BUTYRATE, STABILIZED"
-msgstr ""
+msgstr "VINILBUTIRRATO, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1086
 msgid "VINYL CHLORIDE, STABILIZED"
-msgstr ""
+msgstr "CLORURO DI VINILE STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2589
 msgid "VINYL CHLOROACETATE"
-msgstr ""
+msgstr "CLOROACETATO DI VINILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1302
 msgid "VINYL ETHYL ETHER, STABILIZED"
-msgstr ""
+msgstr "ETERE VINILETILICO, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1860
 msgid "VINYL FLUORIDE, STABILIZED"
-msgstr ""
+msgstr "FLUORURO DI VINILE STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1304
 msgid "VINYL ISOBUTYL ETHER, STABILIZED"
-msgstr ""
+msgstr "ETERE VINILISOBUTILE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1087
 msgid "VINYL METHYL ETHER, STABILIZED"
-msgstr ""
+msgstr "ETERE VINILMETILICO, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1303
 msgid "VINYLIDENE CHLORIDE, STABILIZED"
-msgstr ""
+msgstr "CLORURO DI VINILIDENE, STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3073
@@ -13409,96 +13413,96 @@ msgstr "VINYLPIRIDINE, STABILIZED"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2618
 msgid "VINYLTOLUENES, STABILIZED"
-msgstr ""
+msgstr "VINYLTOLUENI, STABILIZZATI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1305
 msgid "VINYLTRICHLOROSILANE"
-msgstr ""
+msgstr "VINILTRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0370
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0371
 msgid "WARHEADS, ROCKET with burster or expelling charge"
-msgstr ""
+msgstr "TESTATE, RAZZI con carica di scoppio o di espulsione"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0286
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0287
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0369
 msgid "WARHEADS, ROCKET with bursting charge"
-msgstr ""
+msgstr "TESTATE, RAZZI con carica di scoppio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0221
 msgid "WARHEADS, TORPEDO with bursting charge"
-msgstr ""
+msgstr "TESTATE, SILURO con carica di scoppio"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3129_500ml
 msgid "WATER-REACTIVE LIQUID, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "LIQUIDO IDROREATTIVO, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3148_500ml
 msgid "WATER-REACTIVE LIQUID, N.O.S."
-msgstr ""
+msgstr "LIQUIDO IDROREATTIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3130_500ml
 msgid "WATER-REACTIVE LIQUID, TOXIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO IDROREATTIVO, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3131_500g
 msgid "WATER-REACTIVE SOLID, CORROSIVE, N.O.S."
-msgstr ""
+msgstr "SOLIDO IDROREATTIVO, CORROSIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3132_500g
 msgid "WATER-REACTIVE SOLID, FLAMMABLE, N.O.S."
-msgstr ""
+msgstr "SOLIDO IDROREATTIVO, INFIAMMABILE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2813_500g
 msgid "WATER-REACTIVE SOLID, N.O.S."
-msgstr ""
+msgstr "SOLIDO IDROREATTIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3133
 msgid "WATER-REACTIVE SOLID, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "SOLIDO REAZIONALE ALL'ACQUA, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P403_1
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P410/IBC05_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3135_WS_4dot3/4dot2_274_P410/IBC08_3
 msgid "WATER-REACTIVE SOLID, SELF-HEATING, N.O.S."
-msgstr ""
+msgstr "SOLIDO REAZIONALE CON L'ACQUA, AUTORISCALDANTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134_1kg
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3134_500g
 msgid "WATER-REACTIVE SOLID, TOXIC, N.O.S."
-msgstr ""
+msgstr "SOLIDO IDROREATTIVO, TOSSICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1306_F1_3_5L_P001/IBC03/LP01/R001_3
 msgid "WOOD PRESERVATIVES, LIQUID"
-msgstr ""
+msgstr "CONSERVANTI PER LEGNO, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1306_F1_3_5L_P001/R001_3
@@ -13506,6 +13510,9 @@ msgid ""
 "WOOD PRESERVATIVES, LIQUID (having a flash-point below 23 °C and viscous "
 "according to 2.2.3.1.4) (vapour pressure at 50 °C more than 110 kPa)"
 msgstr ""
+"CONSERVANTI DEL LEGNO, LIQUIDI (aventi un punto di infiammabilità inferiore "
+"a 23 °C e viscosi secondo 2.2.3.1.4) (pressione di vapore a 50 °C superiore "
+"a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1306_F1_3_5L_P001/IBC02/R001_3
@@ -13513,199 +13520,209 @@ msgid ""
 "WOOD PRESERVATIVES, LIQUID (having a flash-point below 23 °C and viscous "
 "according to 2.2.3.1.4) (vapour pressure at 50 °C not more than 110 kPa)"
 msgstr ""
+"CONSERVANTI DEL LEGNO, LIQUIDI (aventi un punto di infiammabilità inferiore "
+"a 23 °C e viscosi secondo 2.2.3.1.4) (pressione di vapore a 50 °C non "
+"superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1306_F1_3_640C_5L_P001_2
 msgid "WOOD PRESERVATIVES, LIQUID (vapour pressure at 50 °C more than 110 kPa)"
 msgstr ""
+"CONSERVANTI DEL LEGNO, LIQUIDI (pressione di vapore a 50 °C superiore a 110 "
+"kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1306_F1_3_640D_5L_P001/IBC02/R001_2
 msgid ""
 "WOOD PRESERVATIVES, LIQUID (vapour pressure at 50 °C not more than 110 kPa)"
 msgstr ""
+"CONSERVANTI DEL LEGNO, LIQUIDI (pressione di vapore a 50 °C non superiore a "
+"110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1387
 msgid "Wool waste, wet"
-msgstr ""
+msgstr "Cascami di lana, umidi"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3342_S2_4dot2_P002/IBC06_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3342_S2_4dot2_P002/IBC08/LP02/R001_3
 msgid "XANTHATES"
-msgstr ""
+msgstr "XANTATI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2036
 msgid "XENON"
-msgstr ""
+msgstr "XENO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2591
 msgid "XENON, REFRIGERATED LIQUID"
-msgstr ""
+msgstr "XENON, LIQUIDO REFRIGERATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1307_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1307_5L
 msgid "XYLENES"
-msgstr ""
+msgstr "XILENI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3430
 msgid "XYLENOLS, LIQUID"
-msgstr ""
+msgstr "XILENOLI LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2261
 msgid "XYLENOLS, SOLID"
-msgstr ""
+msgstr "XILENOLI SOLIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1711
 msgid "XYLIDINES, LIQUID"
-msgstr ""
+msgstr "XILIDINE, LIQUIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3452
 msgid "XYLIDINES, SOLID"
-msgstr ""
+msgstr "XILIDINE, SOLIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1701
 msgid "XYLYL BROMIDE, LIQUID"
-msgstr ""
+msgstr "BROMURO DI XILILE, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3417
 msgid "XYLYL BROMIDE, SOLID"
-msgstr ""
+msgstr "BROMURO DI XILILE, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1512
 msgid "ZINC AMMONIUM NITRITE"
-msgstr ""
+msgstr "NITRITO DI ZINCO E AMMONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1712
 msgid "ZINC ARSENATE, ZINC ARSENITE or ZINC ARSENATE AND ZINC ARSENITE MIXTURE"
 msgstr ""
+"ARSENATO DI ZINCO, ARSENITO DI ZINCO o MISCELA DI ARSENATO DI ZINCO E "
+"ARSENITO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1435
 msgid "ZINC ASHES"
-msgstr ""
+msgstr "CENERI DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2469
 msgid "ZINC BROMATE"
-msgstr ""
+msgstr "BROMATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1513
 msgid "ZINC CHLORATE"
-msgstr ""
+msgstr "CLORATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1840
 msgid "ZINC CHLORIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI CLORURO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2331
 msgid "ZINC CHLORIDE, ANHYDROUS"
-msgstr ""
+msgstr "CLORURO DI ZINCO ANIDRO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1713
 msgid "ZINC CYANIDE"
-msgstr ""
+msgstr "CIANURO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1931
 msgid "ZINC DITHIONITE (ZINC HYDROSULPHITE)"
-msgstr ""
+msgstr "DITIONITO DI ZINCO (IDROSOLFITO DI ZINCO)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2855
 msgid "ZINC FLUOROSILICATE"
-msgstr ""
+msgstr "FLUOROSILICATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1514
 msgid "ZINC NITRATE"
-msgstr ""
+msgstr "NITRATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1515
 msgid "ZINC PERMANGANATE"
-msgstr ""
+msgstr "PERMANGANATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1516
 msgid "ZINC PEROXIDE"
-msgstr ""
+msgstr "PEROSSIDO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1714
 msgid "ZINC PHOSPHIDE"
-msgstr ""
+msgstr "FOSFURO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P403_1
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P410/IBC07_2
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1436_WS_4dot3/4dot2_P410/IBC08/R001_3
 msgid "ZINC POWDER or ZINC DUST"
-msgstr ""
+msgstr "POLVERE DI ZINCO o POLVERE DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2714
 msgid "ZINC RESINATE"
-msgstr ""
+msgstr "RESINATO DI ZINCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1437
 msgid "ZIRCONIUM HYDRIDE"
-msgstr ""
+msgstr "IDRURO DI ZIRCONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2728
 msgid "ZIRCONIUM NITRATE"
-msgstr ""
+msgstr "NITRATO DI ZIRCONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1517
 msgid "ZIRCONIUM PICRAMATE, WETTED with not less than 20% water, by mass"
-msgstr ""
+msgstr "PICRAMATO DI ZIRCONIO, BAGNATO con almeno il 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0236
 msgid "ZIRCONIUM PICRAMATE, dry or wetted with less than 20% water, by mass"
 msgstr ""
+"PICRAMATO DI ZIRCONIO, secco o bagnato con meno del 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P002/IBC08/LP02/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P404_0
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2008_S4_4dot2_524/540_P410/IBC06_2
 msgid "ZIRCONIUM POWDER, DRY"
-msgstr ""
+msgstr "POLVERE DI ZIRCONIO SECCA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1358
 msgid "ZIRCONIUM POWDER, WETTED with not less than 25% water"
-msgstr ""
+msgstr "POLVERE DI ZIRCONIO, BAGNATA con almeno il 25% di acqua"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1932
 msgid "ZIRCONIUM SCRAP"
-msgstr ""
+msgstr "ROTTAMI DI ZIRCONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1308_F1_3_5L_P001/R001_3
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1308_F1_3_P001_1
 msgid "ZIRCONIUM SUSPENDED IN A FLAMMABLE LIQUID"
-msgstr ""
+msgstr "ZIRCONIO SOSPESO IN UN LIQUIDO INFIAMMABILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1308_F1_3_640C_1L_P001/R001_2
@@ -13713,6 +13730,8 @@ msgid ""
 "ZIRCONIUM SUSPENDED IN A FLAMMABLE LIQUID (vapour pressure at 50 °C more "
 "than 110 kPa)"
 msgstr ""
+"ZIRCONIO SOSPESO IN UN LIQUIDO INFIAMMABILE (pressione di vapore a 50 °C "
+"superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1308_F1_3_640D_1L_P001/R001_2
@@ -13720,11 +13739,13 @@ msgid ""
 "ZIRCONIUM SUSPENDED IN A FLAMMABLE LIQUID (vapour pressure at 50 °C not more "
 "than 110 kPa)"
 msgstr ""
+"ZIRCONIO SOSPESO IN UN LIQUIDO INFIAMMABILE (pressione di vapore a 50 °C non "
+"superiore a 110 kPa)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2503
 msgid "ZIRCONIUM TETRACHLORIDE"
-msgstr ""
+msgstr "TETRACLORURO DI ZIRCONIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2858
@@ -13732,162 +13753,164 @@ msgid ""
 "ZIRCONIUM, DRY, coiled wire, finished metal sheets, strip (thinner than 254 "
 "microns but not thinner than 18 microns)"
 msgstr ""
+"ZIRCONIO, SECCO, filo avvolto, lamiere finite, strisce (più sottili di 254 "
+"micron ma non più sottili di 18 micron)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2009
 msgid "ZIRCONIUM, DRY, finished sheets, strip or coiled wire"
-msgstr ""
+msgstr "ZIRCONIO, SECCO, fogli finiti, strisce o fili arrotolati"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2367
 msgid "alpha-METHYL-VALERALDEHYDE"
-msgstr ""
+msgstr "alfa-METIL-VALERALDEIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2937
 msgid "alpha-METHYLBENZYL ALCOHOL, LIQUID"
-msgstr ""
+msgstr "ALCOOL alfa-METILBENZILICO, LIQUIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3438
 msgid "alpha-METHYLBENZYL ALCOHOL, SOLID"
-msgstr ""
+msgstr "ALCOOL alfa-METILBENZILICO, SOLIDO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2077
 msgid "alpha-NAPHTHYLAMINE"
-msgstr ""
+msgstr "alfa-NAFTILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2368
 msgid "alpha-PINENE"
-msgstr ""
+msgstr "alfa-PINENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3411_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3411_5L
 msgid "beta-NAPHTHYLAMINE   SOLUTION"
-msgstr ""
+msgstr "soluzione di beta-naftilammina"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1650
 msgid "beta-NAPHTHYLAMINE, SOLID"
-msgstr ""
+msgstr "beta-NAFTILAMMINA, SOLIDA"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 msgid "cat:%s"
-msgstr ""
+msgstr "cat: %s"
 
 #. module: l10n_eu_product_adr
 #: model:uom.uom,name:l10n_eu_product_adr.product_uom_mililiter
 msgid "ml"
-msgstr ""
+msgstr "ml"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1110
 msgid "n-AMYL METHYL KETONE"
-msgstr ""
+msgstr "n-AMILMETILCHETONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2743
 msgid "n-BUTYL CHLOROFORMATE"
-msgstr ""
+msgstr "CLOROFORMIATO DI n-BUTIL"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1128
 msgid "n-BUTYL FORMATE"
-msgstr ""
+msgstr "n-butilformiato"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2485
 msgid "n-BUTYL ISOCYANATE"
-msgstr ""
+msgstr "n-butilisocianato"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2227
 msgid "n-BUTYL METHACRYLATE, STABILIZED"
-msgstr ""
+msgstr "METACRILATO DI N-BUTILICO STABILIZZATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1125
 msgid "n-BUTYLAMINE"
-msgstr ""
+msgstr "n-BUTILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2247
 msgid "n-DECANE"
-msgstr ""
+msgstr "n-DECANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3056
 msgid "n-HEPTALDEHYDE"
-msgstr ""
+msgstr "n-EPTALDEIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2278
 msgid "n-HEPTENE"
-msgstr ""
+msgstr "n-EPTENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1274_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1274_5L
 msgid "n-PROPANOL (PROPYL ALCOHOL, NORMAL)"
-msgstr ""
+msgstr "n-PROPANOLO (ALCOOL PROPILICO, NORMALE)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1276
 msgid "n-PROPYL ACETATE"
-msgstr ""
+msgstr "ACETATO DI n-PROPILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2740
 msgid "n-PROPYL CHLOROFORMATE"
-msgstr ""
+msgstr "n-PROPIL CLOROFORMIATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2482
 msgid "n-PROPYL ISOCYANATE"
-msgstr ""
+msgstr "n-PROPIL ISOCIANATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1865
 msgid "n-PROPYL NITRATE"
-msgstr ""
+msgstr "NITRATO DI n-PROPILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2364
 msgid "n-PROPYLBENZENE"
-msgstr ""
+msgstr "n-PROPILBENZENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1591
 msgid "o-DICHLOROBENZENE"
-msgstr ""
+msgstr "o-DICLOROBENZENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1369
 msgid "p-NITROSODIMETHYL-ANILINE"
-msgstr ""
+msgstr "p-NITROSODIMETIL-ANILINA"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 msgid "qty:%(limited_quantity)s %(limited_quantity_uom_id)s"
-msgstr ""
+msgstr "quantità:%(quantità_limitata)s %(id_unità_quantità_limitata)s"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3255
 msgid "tert-BUTYL HYPOCHLORITE"
-msgstr ""
+msgstr "IPOCLORITO DI TERZ-BUTILICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2484
 msgid "tert-BUTYL ISOCYANATE"
-msgstr ""
+msgstr "isocianato di terz-butile"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2747
 msgid "tert-BUTYLCYCLOHEXYL CHLOROFORMATE"
-msgstr ""
+msgstr "tert-BUTILCICLOESIL CLOROFORMIATO"
