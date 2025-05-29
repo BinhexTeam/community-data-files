@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-05-28 11:25+0000\n"
+"PO-Revision-Date: 2025-05-29 10:26+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -12681,26 +12681,26 @@ msgstr "LIQUIDO TOSSICO, INFIAMMABILE, ORGANICO, N.A.S."
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3287_5L
 msgid "TOXIC LIQUID, INORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, INORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2810_5L
 msgid "TOXIC LIQUID, ORGANIC, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, ORGANICO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3122
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3122_100ml
 msgid "TOXIC LIQUID, OXIDIZING, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, COMBURENTE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3123
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3123_100ml
 msgid "TOXIC LIQUID, WATER-REACTIVE, N.O.S."
-msgstr ""
+msgstr "LIQUIDO TOSSICO, IDROREATTIVO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3290
@@ -12763,30 +12763,30 @@ msgstr "SOLIDO TOSSICO, WATER-REACTIVE, N.O.S."
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3172_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3172_5L
 msgid "TOXINS, EXTRACTED FROM LIVING SOURCES, LIQUID, N.O.S."
-msgstr ""
+msgstr "TOSSINE, ESTRATTE DA FONTI VIVENTI, LIQUIDE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3462_5kg
 msgid "TOXINS, EXTRACTED FROM LIVING SOURCES, SOLID, N.O.S."
-msgstr ""
+msgstr "TOSSINE, ESTRATTE DA FONTI VIVENTI, SOLIDE, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0212
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0306
 msgid "TRACERS FOR AMMUNITION"
-msgstr ""
+msgstr "TRACCIANTI PER MUNIZIONI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2609
 msgid "TRIALLYL BORATE"
-msgstr ""
+msgstr "BORATO DI TRIALLILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2610
 msgid "TRIALLYLAMINE"
-msgstr ""
+msgstr "TRIALLYLAMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2764
@@ -12794,13 +12794,15 @@ msgstr ""
 msgid ""
 "TRIAZINE PESTICIDE, LIQUID, FLAMMABLE, TOXIC, flash-point less than 23 °C"
 msgstr ""
+"PESTICIDA TRIAZINICO, LIQUIDO, INFIAMMABILE, TOSSICO, punto di "
+"infiammabilità inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2998_5L
 msgid "TRIAZINE PESTICIDE, LIQUID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA TRIAZINO, LIQUIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2997
@@ -12809,94 +12811,96 @@ msgstr ""
 msgid ""
 "TRIAZINE PESTICIDE, LIQUID, TOXIC, FLAMMABLE, flash-point not less than 23 °C"
 msgstr ""
+"PESTICIDA TRIAZINICO, LIQUIDO, TOSSICO, INFIAMMABILE, punto di "
+"infiammabilità non inferiore a 23 °C"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2763_5kg
 msgid "TRIAZINE PESTICIDE, SOLID, TOXIC"
-msgstr ""
+msgstr "PESTICIDA TRIAZINICO, SOLIDO, TOSSICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2542
 msgid "TRIBUTYLAMINE"
-msgstr ""
+msgstr "TRIBUTILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3254
 msgid "TRIBUTYLPHOSPHANE"
-msgstr ""
+msgstr "TRIBUTILFOSFANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1839
 msgid "TRICHLOROACETIC ACID"
-msgstr ""
+msgstr "ACIDO TRICLOROACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2564_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2564_5L
 msgid "TRICHLOROACETIC ACID SOLUTION"
-msgstr ""
+msgstr "ACIDO TRICLOROACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2442
 msgid "TRICHLOROACETYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI TRICLOROACETILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2321
 msgid "TRICHLOROBENZENES, LIQUID"
-msgstr ""
+msgstr "TRICLOROBENZENI, LIQUIDI"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2322
 msgid "TRICHLOROBUTENE"
-msgstr ""
+msgstr "TRICLOROBUTENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1710
 msgid "TRICHLOROETHYLENE"
-msgstr ""
+msgstr "TRICLOROETILENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2468
 msgid "TRICHLOROISOCYANURIC ACID, DRY"
-msgstr ""
+msgstr "ACIDO TRICLOROISOCIANURICO SECCO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1295
 msgid "TRICHLOROSILANE"
-msgstr ""
+msgstr "TRICLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2574
 msgid "TRICRESYL PHOSPHATE with more than 3% ortho isomer"
-msgstr ""
+msgstr "TRICRESIL FOSFATO con più del 3% di isomero orto"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2323
 msgid "TRIETHYL PHOSPHITE"
-msgstr ""
+msgstr "TRIETIL FOSFITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1296
 msgid "TRIETHYLAMINE"
-msgstr ""
+msgstr "TRIETILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2259
 msgid "TRIETHYLENETETRAMINE"
-msgstr ""
+msgstr "TRIETILENETETRAMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2699
 msgid "TRIFLUOROACETIC ACID"
-msgstr ""
+msgstr "ACIDO TRIFLUOROACETICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3057
 msgid "TRIFLUOROACETYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI TRIFLUOROACETILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1082
@@ -12911,7 +12915,7 @@ msgstr "TRIFLUOROMETHANE (GAS REFRIGERANTE R 23)"
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3136
 msgid "TRIFLUOROMETHANE, REFRIGERATED LIQUID"
-msgstr ""
+msgstr "TRIFLUOROMETANO, LIQUIDO REFRIGERATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2324
@@ -12922,27 +12926,27 @@ msgstr "TRIISOBUTILENE"
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2616_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2616_5L
 msgid "TRIISOPROPYL BORATE"
-msgstr ""
+msgstr "TRIISOPROPIL BORATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2416
 msgid "TRIMETHYL BORATE"
-msgstr ""
+msgstr "TRIMETIL BORATO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2329
 msgid "TRIMETHYL PHOSPHITE"
-msgstr ""
+msgstr "TRIMETILFOSFITO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2438
 msgid "TRIMETHYLACETYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI TRIMETILACETILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1083
 msgid "TRIMETHYLAMINE, ANHYDROUS"
-msgstr ""
+msgstr "TRIMETILAMINA ANIDRA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1297
@@ -12951,81 +12955,85 @@ msgstr ""
 msgid ""
 "TRIMETHYLAMINE, AQUEOUS SOLUTION, not more than 50% trimethylamine, by mass"
 msgstr ""
+"TRIMETILAMINA, SOLUZIONE ACQUOSA, non più del 50% di trimetilammina, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1298
 msgid "TRIMETHYLCHLORO-SILANE"
-msgstr ""
+msgstr "TRIMETILCLOROSILANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2326
 msgid "TRIMETHYLCYCLO-HEXYLAMINE"
-msgstr ""
+msgstr "TRIMETILCICLOESILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2328
 msgid "TRIMETHYLHEXA-METHYLENE DIISOCYANATE"
-msgstr ""
+msgstr "DIISOCIANATO DI TRIMETILESA-METILENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2327
 msgid "TRIMETHYLHEXA-METHYLENEDIAMINES"
-msgstr ""
+msgstr "TRIMETILESA-METILENDIAMMINE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0216
 msgid "TRINITRO-m-CRESOL"
-msgstr ""
+msgstr "TRINITRO-m-CRESOLO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0153
 msgid "TRINITROANILINE (PICRAMIDE)"
-msgstr ""
+msgstr "TRINITROANILINA (PICRAMIDE)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0213
 msgid "TRINITROANISOLE"
-msgstr ""
+msgstr "TRINITROANISOLO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3367
 msgid "TRINITROBENZENE, WETTED with not less than 10% water, by mass"
-msgstr ""
+msgstr "TRINITROBENZENE, BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1354
 msgid "TRINITROBENZENE, WETTED with not less than 30% water, by mass"
-msgstr ""
+msgstr "TRINITROBENZENE, BAGNATO con almeno il 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0214
 msgid "TRINITROBENZENE, dry or wetted with less than 30% water, by mass"
 msgstr ""
+"TRINITROBENZENE, secco o umidificato con meno del 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0386
 msgid "TRINITROBENZENE-SULPHONIC ACID"
-msgstr ""
+msgstr "ACIDO TRINITROBENZENE-SOLFONICO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3368
 msgid "TRINITROBENZOIC ACID, WETTED with not less than 10% water, by mass"
-msgstr ""
+msgstr "ACIDO TRINITROBENZOICO, BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1355
 msgid "TRINITROBENZOIC ACID, WETTED with not less than 30% water, by mass"
-msgstr ""
+msgstr "ACIDO TRINITROBENZOICO, BAGNATO con almeno il 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0215
 msgid "TRINITROBENZOIC ACID, dry or wetted with less than 30% water, by mass"
 msgstr ""
+"ACIDO TRINITROBENZOICO, secco o umidificato con meno del 30% di acqua, in "
+"massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0155
 msgid "TRINITROCHLORO-BENZENE (PICRYL CHLORIDE)"
-msgstr ""
+msgstr "TRINITROCLOROBENZENE (CLORURO DI PICRILE)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3365
@@ -13033,44 +13041,50 @@ msgid ""
 "TRINITROCHLOROBENZENE (PICRYL CHLORIDE), WETTED with not less than 10% "
 "water, by mass"
 msgstr ""
+"TRINITROCLOROBENZENE (CLORURO DI PICRILE), BAGNATO con almeno il 10% di "
+"acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0387
 msgid "TRINITROFLUORENONE"
-msgstr ""
+msgstr "TRINITROFLUORENONE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0217
 msgid "TRINITRONAPHTHALENE"
-msgstr ""
+msgstr "TRINITRONAFTALENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0218
 msgid "TRINITROPHENETOLE"
-msgstr ""
+msgstr "TRINITROFENETOLO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3364
 msgid ""
 "TRINITROPHENOL (PICRIC ACID), WETTED with not less than 10% water, by mass"
 msgstr ""
+"TRINITROFENOLO (ACIDO PICRICO), BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1344
 msgid ""
 "TRINITROPHENOL (PICRIC ACID), WETTED with not less than 30% water, by mass"
 msgstr ""
+"TRINITROFENOLO (ACIDO PICRICO), BAGNATO con almeno il 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0154
 msgid ""
 "TRINITROPHENOL (PICRIC ACID), dry or wetted with less than 30% water, by mass"
 msgstr ""
+"TRINITROFENOLO (ACIDO PICRICO), secco o umidificato con meno del 30% di "
+"acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0208
 msgid "TRINITROPHENYLMETHYL-NITRAMINE (TETRYL)"
-msgstr ""
+msgstr "TRINITROFENILMETIL-NITRAMMINA (TETRIL)"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0394
@@ -13078,6 +13092,8 @@ msgid ""
 "TRINITRORESORCINOL (STYPHNIC ACID), WETTED with not less than 20% water, or "
 "mixture of alcohol and water, by mass"
 msgstr ""
+"TRINITRORESORCINOLO (ACIDO STIFNICO), BAGNATO con almeno il 20% di acqua, o "
+"una miscela di alcol e acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0219
@@ -13085,6 +13101,8 @@ msgid ""
 "TRINITRORESORCINOL (STYPHNIC ACID), dry or wetted with less than 20% water, "
 "or mixture of alcohol and water, by mass"
 msgstr ""
+"TRINITRORESORCINOLO (ACIDO STIFNICO), secco o umidificato con meno del 20% "
+"di acqua, o miscela di alcol e acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0388
@@ -13092,6 +13110,8 @@ msgid ""
 "TRINITROTOLUENE (TNT) AND TRINITROBENZENE MIXTURE or TRINITROTOLUENE (TNT) "
 "AND HEXANITROSTILBENE MIXTURE"
 msgstr ""
+"MISCELA DI TRINITROTOLUENE (TNT) E TRINITROBENZENE o MISCELA DI "
+"TRINITROTOLUENE (TNT) E ESANITROSTILBENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0389
@@ -13099,69 +13119,73 @@ msgid ""
 "TRINITROTOLUENE (TNT) MIXTURE CONTAINING TRINITROBENZENE AND "
 "HEXANITROSTILBENE"
 msgstr ""
+"MISCELA DI TRINITROTOLUENE (TNT) CONTENENTE TRINITROBENZENE ED "
+"ESANITROSTILBENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3366
 msgid "TRINITROTOLUENE (TNT), WETTED with not less than 10% water, by mass"
-msgstr ""
+msgstr "TRINITROTOLUENE (TNT), BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1356
 msgid "TRINITROTOLUENE (TNT), WETTED with not less than 30% water, by mass"
-msgstr ""
+msgstr "TRINITROTOLUENE (TNT), BAGNATO con almeno il 30% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0209
 msgid "TRINITROTOLUENE (TNT), dry or wetted with less than 30% water, by mass"
 msgstr ""
+"TRINITROTOLUENE (TNT), secco o umidificato con meno del 30% di acqua, in "
+"massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2260
 msgid "TRIPROPYLAMINE"
-msgstr ""
+msgstr "TRIPROPILAMMINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2057_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2057_5L
 msgid "TRIPROPYLENE"
-msgstr ""
+msgstr "TRIPROPILENE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2501_100ml
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2501_5L
 msgid "TRIS-(1-AZIRIDINYL) PHOSPHINE OXIDE SOLUTION"
-msgstr ""
+msgstr "SOLUZIONE DI OSSIDO DI TRIS-(1-AZIRIDINIL)FOSFINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0390
 msgid "TRITONAL"
-msgstr ""
+msgstr "TRITONALE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2196
 msgid "TUNGSTEN HEXAFLUORIDE"
-msgstr ""
+msgstr "ESAFLORURO DI TUNGSTENO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1299
 msgid "TURPENTINE"
-msgstr ""
+msgstr "TREMENTINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1300_1L
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1300_5L
 msgid "TURPENTINE SUBSTITUTE"
-msgstr ""
+msgstr "SOSTITUTO DELLA TREMENTINA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1857
 msgid "Textile waste, wet"
-msgstr ""
+msgstr "Rifiuti tessili, umidi"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_label__goods_ids
 msgid "The dangerous goods to which this label is applied"
-msgstr ""
+msgstr "Le merci pericolose a cui è applicata questa etichetta"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_adr_goods__label_ids
@@ -13171,6 +13195,8 @@ msgid ""
 "The labels/placards (see 5.2.2.2 and 5.3.1.7) that have to be affixed to "
 "packages, containers, tank-containers, portable tanks, MEGCs and vehicles.)"
 msgstr ""
+"Le etichette/cartelli (vedere 5.2.2.2 e 5.3.1.7) che devono essere apposte "
+"su colli, contenitori, cisterne-container, cisterne mobili, CGEM e veicoli.)"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
@@ -13180,35 +13206,38 @@ msgid ""
 "you cannot update the dangerous goods from here. Please reconfigure each "
 "variant separately."
 msgstr ""
+"Per questa variante di prodotto sono configurate diverse merci pericolose, "
+"quindi non è possibile aggiornarle da qui. Si prega di riconfigurare "
+"ciascuna variante separatamente."
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_product__is_dangerous
 #: model:ir.model.fields,help:l10n_eu_product_adr.field_product_template__is_dangerous
 msgid "This product belongs to a dangerous class"
-msgstr ""
+msgstr "Questo prodotto appartiene a una classe pericolosa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_2_3
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_2_3
 msgid "Toxic gases"
-msgstr ""
+msgstr "Gas tossici"
 
 #. module: l10n_eu_product_adr
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_6_1
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_6_1
 msgid "Toxic substances"
-msgstr ""
+msgstr "Sostanze tossiche"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model,name:l10n_eu_product_adr.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "Trasferimento"
 
 #. module: l10n_eu_product_adr
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Transport"
-msgstr ""
+msgstr "Trasporto"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__transport_category
@@ -13216,7 +13245,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_transport_category
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Transport Category"
-msgstr ""
+msgstr "Categoria trasporto"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__tunnel_restriction_code
@@ -13224,23 +13253,23 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_tunnel_restriction_code
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_search
 msgid "Tunnel Restriction Code"
-msgstr ""
+msgstr "Codice restrizione galleria"
 
 #. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__un_number
 msgid "UN Number"
-msgstr ""
+msgstr "Numero NU"
 
 #. module: l10n_eu_product_adr
 #. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 msgid "UN Number %s is invalid because it does not have a length of 4."
-msgstr ""
+msgstr "Il numero NU %s non è valido perché non ha una lunghezza di 4."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2330
 msgid "UNDECANE"
-msgstr ""
+msgstr "UNDECANO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3507
@@ -13248,68 +13277,71 @@ msgid ""
 "URANIUM HEXAFLUORIDE, RADIOACTIVE MATERIAL, EXCEPTED PACKAGE, less than 0.1 "
 "kg per package, non-fissile or fissile-excepted"
 msgstr ""
+"ESAFLORURO DI URANIO, MATERIALE RADIOATTIVO, COLLO ESCLUSO, inferiore a 0,1 "
+"kg per collo, non fissile o fissile eccetto"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1511
 msgid "UREA HYDROGEN PEROXIDE"
-msgstr ""
+msgstr "PEROSSIDO DI IDROGENO UREA"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3370
 msgid "UREA NITRATE, WETTED with not less than 10% water, by mass"
-msgstr ""
+msgstr "NITRATO DI UREA, BAGNATO con almeno il 10% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1357
 msgid "UREA NITRATE, WETTED with not less than 20% water, by mass"
-msgstr ""
+msgstr "NITRATO DI UREA, BAGNATO con almeno il 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0220
 msgid "UREA NITRATE, dry or wetted with less than 20% water, by mass"
 msgstr ""
+"NITRATO DI UREA, secco o umidificato con meno del 20% di acqua, in massa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2058
 msgid "VALERALDEHYDE"
-msgstr ""
+msgstr "VALERALDEIDE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2502
 msgid "VALERYL CHLORIDE"
-msgstr ""
+msgstr "CLORURO DI VALERYL"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285_500g
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3285_5kg
 msgid "VANADIUM COMPOUND, N.O.S."
-msgstr ""
+msgstr "COMPOSTO DI VANADIO, N.A.S."
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2443
 msgid "VANADIUM OXYTRICHLORIDE"
-msgstr ""
+msgstr "VANADIO OSSITRICLORURO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2862
 msgid "VANADIUM PENTOXIDE, non-fused form"
-msgstr ""
+msgstr "PENTOSSIDO DI VANADIO, forma non fusa"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2444
 msgid "VANADIUM TETRACHLORIDE"
-msgstr ""
+msgstr "TETRACLORURO DI VANADIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2475
 msgid "VANADIUM TRICHLORIDE"
-msgstr ""
+msgstr "TRICLORURO DI VANADIO"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_2931
 msgid "VANADYL SULPHATE"
-msgstr ""
+msgstr "SOLFATO DI VANADILE"
 
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_3166
