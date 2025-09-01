@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 14.0\n"
+"Project-Id-Version: Odoo Server 17.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -721,6 +721,11 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move__adr_points
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking__adr_points
 msgid "ADR Points"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_label_kanban_form
+msgid "ADR label image"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -4063,6 +4068,13 @@ msgid "Calcium oxide"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid "Cannot parse limited quantity: %(value)s (%(row)s)"
+msgstr ""
+
+#. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_1845
 msgid "Carbon dioxide, solid (Dry ice)"
 msgstr ""
@@ -4121,6 +4133,13 @@ msgstr ""
 #: model:adr.class,name:l10n_eu_product_adr.adr_class_8
 #: model:adr.label,name:l10n_eu_product_adr.adr_label_8
 msgid "Corrosive substances"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid "Could not transform row %(row)s: %(exception)s"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -4831,11 +4850,12 @@ msgid "Dangerous Goods Label"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_label.py:0
 #, python-format
 msgid ""
-"Dangerous Goods Label %s cannot be deleted because it is in use on one or "
-"more dangerous goods: %s"
+"Dangerous Goods Label %(label)s cannot be deleted because it is in use on "
+"one or more dangerous goods: %(labels)s"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -4867,11 +4887,16 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__display_name
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__display_name
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__display_name
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__display_name
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__display_name
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move__display_name
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking__display_name
 msgid "Display Name"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid ""
+"Duplicate xml ids:\n"
+" %s"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -6456,10 +6481,6 @@ msgstr ""
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__id
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label__id
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction__id
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__id
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__id
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move__id
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking__id
 msgid "ID"
 msgstr ""
 
@@ -6807,6 +6828,29 @@ msgid "Infectious substances"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid "Invalid label %(label)s in cell value %(value)s"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid "Invalid transport category %(category)s in cell value %(value)s"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid ""
+"Invalid tunnel restriction code %(tunnel_restriction)s in cell value "
+"%(value)s"
+msgstr ""
+
+#. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__is_dangerous
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__is_dangerous
 msgid "Is Dangerous"
@@ -7108,29 +7152,12 @@ msgid "LONDON PURPLE"
 msgstr ""
 
 #. module: l10n_eu_product_adr
-#: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_label_kanban_form
-msgid "Label image"
-msgstr ""
-
-#. module: l10n_eu_product_adr
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods__label_ids
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product__adr_label_ids
 #: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template__adr_label_ids
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.adr_goods_view_form
 #: model_terms:ir.ui.view,arch_db:l10n_eu_product_adr.product_template_form_view
 msgid "Labels"
-msgstr ""
-
-#. module: l10n_eu_product_adr
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_class____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_goods____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_label____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_adr_packing_instruction____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_product____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_product_template____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_move____last_update
-#: model:ir.model.fields,field_description:l10n_eu_product_adr.field_stock_picking____last_update
-msgid "Last Modified on"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -10224,13 +10251,13 @@ msgid "Packing Instructions"
 msgstr ""
 
 #. module: l10n_eu_product_adr
-#: model:ir.model,name:l10n_eu_product_adr.model_product_product
+#: model:ir.model,name:l10n_eu_product_adr.model_product_template
 msgid "Product"
 msgstr ""
 
 #. module: l10n_eu_product_adr
-#: model:ir.model,name:l10n_eu_product_adr.model_product_template
-msgid "Product Template"
+#: model:ir.model,name:l10n_eu_product_adr.model_product_product
+msgid "Product Variant"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -12493,6 +12520,7 @@ msgid ""
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
 #: code:addons/l10n_eu_product_adr/models/product_template.py:0
 #, python-format
 msgid ""
@@ -12552,6 +12580,7 @@ msgid "UN Number"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 #, python-format
 msgid "UN Number %s is invalid because it does not have a length of 4."
@@ -12587,6 +12616,21 @@ msgstr ""
 #. module: l10n_eu_product_adr
 #: model:adr.goods,name:l10n_eu_product_adr.adr_goods_0220
 msgid "UREA NITRATE, dry or wetted with less than 20% water, by mass"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid "Unknown uom %(uom_name)s in limited quantity %(value)s (%(row)s)"
+msgstr ""
+
+#. module: l10n_eu_product_adr
+#. odoo-python
+#: code:addons/l10n_eu_product_adr/scripts/import_adr_multilang_xlsx.py:0
+#, python-format
+msgid ""
+"Unknown value for transport code/tunnel restriction code: %(value) (%(row))"
 msgstr ""
 
 #. module: l10n_eu_product_adr
@@ -13065,6 +13109,7 @@ msgid "beta-NAPHTHYLAMINE, SOLID"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 #, python-format
 msgid "cat:%s"
@@ -13162,9 +13207,10 @@ msgid "p-NITROSODIMETHYL-ANILINE"
 msgstr ""
 
 #. module: l10n_eu_product_adr
+#. odoo-python
 #: code:addons/l10n_eu_product_adr/models/adr_goods.py:0
 #, python-format
-msgid "qty:%s %s"
+msgid "qty:%(limited_quantity)s %(limited_quantity_uom_id)s"
 msgstr ""
 
 #. module: l10n_eu_product_adr
