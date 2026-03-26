@@ -19,7 +19,7 @@ msgstr ""
 
 #. module: company_sanitary_registry
 #: model_terms:ir.ui.view,arch_db:company_sanitary_registry.sanitary_registry_template
-msgid "<span>UE</span>"
+msgid "<span>CE</span>"
 msgstr ""
 
 #. module: company_sanitary_registry
@@ -60,12 +60,6 @@ msgstr "Nombre a mostrar"
 #: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__id
 msgid "ID"
 msgstr "ID"
-
-#. module: company_sanitary_registry
-#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry____last_update
-#: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category____last_update
-msgid "Last Modified on"
-msgstr "Última modificación el"
 
 #. module: company_sanitary_registry
 #: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry__write_uid
@@ -110,8 +104,8 @@ msgid "Sanitary Registry by Category and Warehouse"
 msgstr "Registro sanitario por categoría y almacén"
 
 #. module: company_sanitary_registry
+#. odoo-python
 #: code:addons/company_sanitary_registry/models/sanitary_registry.py:0
-#, python-format
 msgid "There are already sanitary registrations with values %s."
 msgstr "Ya existen registros sanitarios con los valores %s."
 
@@ -119,3 +113,6 @@ msgstr "Ya existen registros sanitarios con los valores %s."
 #: model:ir.model.fields,field_description:company_sanitary_registry.field_sanitary_registry_warehouse_category__warehouse_id
 msgid "Warehouse"
 msgstr "Almacén"
+
+#~ msgid "Last Modified on"
+#~ msgstr "Última modificación el"
