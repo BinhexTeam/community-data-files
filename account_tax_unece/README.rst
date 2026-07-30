@@ -1,7 +1,3 @@
-.. image:: https://odoo-community.org/readme-banner-image
-   :target: https://odoo-community.org/get-involved?utm_source=readme
-   :alt: Odoo Community Association
-
 =================
 Account Tax UNECE
 =================
@@ -17,7 +13,7 @@ Account Tax UNECE
 .. |badge1| image:: https://img.shields.io/badge/maturity-Production%2FStable-green.png
     :target: https://odoo-community.org/page/development-status
     :alt: Production/Stable
-.. |badge2| image:: https://img.shields.io/badge/license-LGPL--3-blue.png
+.. |badge2| image:: https://img.shields.io/badge/licence-LGPL--3-blue.png
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fcommunity--data--files-lightgray.png?logo=github
@@ -38,19 +34,22 @@ Nations Economic Commission for Europe <http://www.unece.org>`__ (which
 has 56 members states in Europe, America and Central Asia, cf
 `Wikipedia <https://en.wikipedia.org/wiki/United_Nations_Economic_Commission_for_Europe>`__):
 
-- the UNECE Tax Type code is defined in the `DataElement
-  5153 <http://www.unece.org/trade/untdid/d97b/uncl/uncl5153.htm>`__,
-- the UNECE Tax Category Code is defined in the `DataElement
-  5305 <http://www.unece.org/trade/untdid/d97a/uncl/uncl5305.htm>`__.
+-  the UNECE Tax Type code is defined in the `DataElement
+   5153 <http://www.unece.org/trade/untdid/d97b/uncl/uncl5153.htm>`__,
+-  the UNECE Tax Category Code is defined in the `DataElement
+   5305 <http://www.unece.org/trade/untdid/d97a/uncl/uncl5305.htm>`__,
+-  the VAT Exemption code (VATEX) defined by the European Union, cf the
+   official `VATEX code
+   list <https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108974/>`__.
 
 This codification is part of the UNCL (United Nations Code List). This
 codification is used for example in the two main international standards
 for electronic invoicing:
 
-- `Cross Industry
-  Invoice <http://tfig.unece.org/contents/cross-industry-invoice-cii.htm>`__
-  (CII),
-- `Universal Business Language <http://ubl.xml.org/>`__ (UBL).
+-  `Cross Industry
+   Invoice <http://tfig.unece.org/contents/cross-industry-invoice-cii.htm>`__
+   (CII),
+-  `Universal Business Language <http://ubl.xml.org/>`__ (UBL).
 
 **Table of contents**
 
@@ -89,11 +88,11 @@ Authors
 Contributors
 ------------
 
-- Alexis de Lattre <alexis.delattre@akretion.com>
-- Andrea Stirpe <a.stirpe@onestein.nl>
-- Levent Karakaş
-- Pedro M. Baeza
-- Nhan Tran <nhant@trobz.com>
+-  Alexis de Lattre <alexis.delattre@akretion.com>
+-  Andrea Stirpe <a.stirpe@onestein.nl>
+-  Levent Karakaş
+-  Pedro M. Baeza
+-  Nhan Tran <nhant@trobz.com>
 
 Maintainers
 -----------
