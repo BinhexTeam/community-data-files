@@ -1,2 +1,0 @@
-id,category_id:id,factor,name,uom_type
-product_uom_milliliter,uom.product_uom_categ_vol,1000,ml,smaller

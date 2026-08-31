@@ -14,7 +14,6 @@
     "depends": ["stock"],
     "development_status": "Beta",
     "data": [
-        "data/uom.uom.csv",
         "data/adr.class.csv",
         "data/adr.label.csv",
         "data/adr.packing.instruction.csv",
