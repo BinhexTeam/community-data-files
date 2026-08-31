@@ -86,13 +86,13 @@ group.
 Known issues / Roadmap
 ======================
 
-- Dangerous products may also have temperature control to track goods in
-  stock and delivery
-- Allow an effective label selection for products in class 7, as all
-  labels in that class may apply to all products (but not at the same
-  time).
-- Update the data in this module beyond the 2019 version of the
-  specifications. Maybe from https://unece.org/adr-2025-files.
+-  Dangerous products may also have temperature control to track goods
+   in stock and delivery
+-  Allow an effective label selection for products in class 7, as all
+   labels in that class may apply to all products (but not at the same
+   time).
+-  Update the data in this module beyond the 2019 version of the
+   specifications. Maybe from https://unece.org/adr-2025-files.
 
 Changelog
 =========
@@ -100,11 +100,11 @@ Changelog
 14.0.1.0.0 (2021-05-04)
 -----------------------
 
-- [BREAKING] Gather dangerous goods attributes on a new model adr.goods,
-  and replace all product attributes with a Many2one on this model.
-  Remove all other unused or unclear attributes.
-- [ADD] XML data for the dangerous goods table from the 2019 edition,
-  including translations in 3 languages.
+-  [BREAKING] Gather dangerous goods attributes on a new model
+   adr.goods, and replace all product attributes with a Many2one on this
+   model. Remove all other unused or unclear attributes.
+-  [ADD] XML data for the dangerous goods table from the 2019 edition,
+   including translations in 3 languages.
 
 Bug Tracker
 ===========
@@ -128,11 +128,11 @@ Authors
 Contributors
 ------------
 
-- Stefan Rijnhart <stefan@opener.amsterdam>
-- Vyshnevska Iryna <i.vyshnevska@mobilunity.com>
-- Isaac Gallart <igallart@puntsistemes.es>
-- Chau Le <chaulb@trobz.com>
-- Maksym Yankin <maksym.yankin@camptocamp.com>
+-  Stefan Rijnhart <stefan@opener.amsterdam>
+-  Vyshnevska Iryna <i.vyshnevska@mobilunity.com>
+-  Isaac Gallart <igallart@puntsistemes.es>
+-  Chau Le <chaulb@trobz.com>
+-  Maksym Yankin <maksym.yankin@camptocamp.com>
 
 Other credits
 -------------
