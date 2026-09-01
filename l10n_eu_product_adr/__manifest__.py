@@ -15,7 +15,7 @@
     "development_status": "Beta",
     "data": [
         "data/adr.class.csv",
-        "data/adr.label.csv",
+        "data/adr_label.xml",
         "data/adr.packing.instruction.csv",
         "data/adr.goods.csv",
         "security/res_groups.xml",
